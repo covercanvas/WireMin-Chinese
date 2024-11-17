@@ -1,0 +1,5148 @@
+{
+  "\"%s\" is an empty file, sending zero-sized file is not allowed"
+  "\"%s\" 是一个空文件，发送空文件是不被允许的"
+}
+{
+  "%1$s is having trouble with Google Play services. Please try again."
+  "%1$s 与Google Play services连接时出错，请重试"
+}
+{
+  "%1$s minutes"
+  "%1$s 分钟"
+}
+{
+  "%1$s o'clock"
+  "%1$s 点"
+}
+{
+  "%1$s up"
+  "%1$s 更新"
+}
+{
+  "%1$s won't run unless you update Google Play services."
+  "%1$s 在你更新Google Play services之前无法使用"
+}
+{
+  "%1$s won't run without Google Play services, which are currently updating."
+  "%1$s 无法在没有Google Play services的情况下使用最新版"
+}
+{
+  "%1$s won't run without Google Play services, which are missing from your device."
+  "%1$s无法在没有安装Google Play services的设备上使用"
+}
+{
+  "%1$s won't run without Google Play services, which are not supported by your device."
+  "%1$s无法在不支持Google Play services的设备上使用"
+}
+{
+  "%1$s won't work unless you enable Google Play services."
+  "%1$s无法在没有启用Google Play services的设备上使用"
+}
+{
+  "%1$s – End date"
+  "%1$s -结束日期"
+}
+{
+  "%d new notification"
+  "%d新通知"
+}
+{
+  "%d new notifications"
+  "%d个新通知"
+}
+{
+  "%s Episodes"
+  "%s 集"
+}
+{
+  "%s Hour"
+  "%s小时"
+}
+{
+  "%s Hours"
+  "%s小时"
+}
+{
+  "%s Minute"
+  "%s分钟"
+}
+{
+  "%s Month"
+  "%s个月"
+}
+{
+  "%s Months"
+  "%s个月"
+}
+{
+  "%s New Messages"
+  "%s个新消息"
+}
+{
+  "%s Second"
+  "%s秒"
+}
+{
+  "%s Week"
+  "%s周"
+}
+{
+  "%s Year"
+  "%s年"
+}
+{
+  "%s changed the group name to %s"
+  "%s改变%s的群名"
+}
+{
+  "%s changed the group region to %s"
+  "%s改变地区%s"
+}
+{
+  "%s cores"
+  "%s核"
+}
+{
+  "%s day"
+  "%s天"
+}
+{
+  "%s days"
+  "%s天"
+}
+{
+  "%s hour"
+  "%s小时"
+}
+{
+  "%s hours"
+  "%s小时"
+}
+{
+  "%s hr"
+  "%s 时"
+}
+{
+  "%s hrs"
+  "%s 时"
+}
+{
+  "%s invited %s to the group chat"
+  "%s邀请%s加入聊天"
+}
+{
+  "%s left the group"
+  "%s离开了群聊"
+}
+{
+  "%s min"
+  "%s分"
+}
+{
+  "%s mins"
+  "%s分"
+}
+{
+  "%s minute"
+  "%s分钟"
+}
+{
+  "%s minutes"
+  "%s分钟"
+}
+{
+  "%s not enable"
+  "%s未启用"
+}
+{
+  "%s not set up"
+  "%s未设置"
+}
+{
+  "%s notifications"
+  "%s的通知"
+}
+{
+  "%s removed %s from the group chat"
+  "%s已将%s移出群聊"
+}
+{
+  "%s sec"
+  "%s秒"
+}
+{
+  "%s second"
+  "%s秒"
+}
+{
+  "%s seconds"
+  "%s秒"
+}
+{
+  "%s secs"
+  "%s秒"
+}
+{
+  "%s week"
+  "%s周"
+}
+{
+  "%s weeks"
+  "%s周"
+}
+{
+  "%s: Hey there! I am using WireMin now. Copy this message and open your WireMin to connect me."
+  "%s：你好！我现在正在使用Wiremin。复制此消息并打开您的Wiremin从而添加我为好友"
+}
+{
+  "'Last Update' M-d HH:mm"
+  "最后一次更新： M-d HH:mm"
+}
+{
+  "(Version %s)"
+  "(版本 %s)"
+}
+{
+  "* Only available through direct message"
+  "* 仅允许私信消息"
+}
+{
+  "0 fees"
+  "免费"
+}
+{
+  "0xbee User"
+  "0xbee 用户"
+}
+{
+  "5.1 surround sound"
+  "5.1环绕声"
+}
+{
+  "7.1 surround sound"
+  "7.1环绕声"
+}
+{
+  "A Decentralized Social Network that Empowers Everyone to Own Complete Privacy and Freedom."
+  "这是一个去中心化的社交网络，让每个人都能拥有完全的隐私和自由。"
+}
+{
+  "A camera is not found or cannot be connected."
+  "未找到或无法连接摄像头。"
+}
+{
+  "A decentralized network owned by all users. End-to-end encrypted messages, contents, identities, and social relationships."
+  "所有人可用的去中心化网络。端到端加密的消息、内容、身份和社交关系"
+}
+{
+  "ALL LANGUAGES"
+  "所有语言"
+}
+{
+  "About"
+  "关于"
+}
+{
+  "About Us"
+  "关于我们"
+}
+{
+  "Accept"
+  "同意"
+}
+{
+  "Access to system recording permission denied"
+  "访问系统录制权限被拒绝"
+}
+{
+  "Account Balance"
+  "账户余额"
+}
+{
+  "Activity"
+  "活动"
+}
+{
+  "Add"
+  "添加"
+}
+{
+  "Add Contact"
+  "添加好友"
+}
+{
+  "Add Crypto Address"
+  "添加密码地址"
+}
+{
+  "Add Existing WireMin ID"
+  "添加现有WireMin ID"
+}
+{
+  "Add New Label"
+  "添加新标签"
+}
+{
+  "Add a comment"
+  "添加评论"
+}
+{
+  "Add a new contact"
+  "添加新的好友"
+}
+{
+  "Add from Clipboard"
+  "从剪贴板添加"
+}
+{
+  "Add to a Group"
+  "添加到群聊"
+}
+{
+  "Added Labels"
+  "添加标签"
+}
+{
+  "Address"
+  "地址"
+}
+{
+  "Advanced Setting"
+  "高级设置"
+}
+{
+  "After"
+  "转发"
+}
+{
+  "Album"
+  "相册"
+}
+{
+  "All Labels"
+  "所有标签"
+}
+{
+  "All Photos"
+  "所有照片"
+}
+{
+  "All audio"
+  "所有音乐"
+}
+{
+  "All contacts will be lost due to the import failure. However, your wallet can still be used normally."
+  "由于导入失败，所有好友都将丢失\n但是，您的钱包仍然可以正常使用"
+}
+{
+  "All files access"
+  "访问所有文件"
+}
+{
+  "All messages are end-to-end encrypted"
+  "所有消息都是端到端加密的"
+}
+{
+  "All photos"
+  "所有照片"
+}
+{
+  "All spaces in the Discovery are public spaces."
+  "“发现”中的所有空间都是公开空间"
+}
+{
+  "All spaces you've viewed would display on \"Yours\""
+  "您查看过的所有空间都将显示在“个人”上"
+}
+{
+  "Allow"
+  "允许"
+}
+{
+  "Allow Concurrent Downloads"
+  "允许并发下载"
+}
+{
+  "Allow Sending Diagnostics"
+  "允许发送诊断"
+}
+{
+  "Allow WireMin to record audio?"
+  "是否允许Wiremin录制音频？"
+}
+{
+  "Allow greeting request from"
+  "添加我的方式"
+}
+{
+  "Already login"
+  "已登录"
+}
+{
+  "Amount"
+  "总额"
+}
+{
+  "Android Data Disclosure of ML Kit"
+  "ML Kit的Android数据披露"
+}
+{
+  "Announcement"
+  "公告"
+}
+{
+  "Announcement not set"
+  "未设置公告"
+}
+{
+  "Anonymous wallet creation in just one step"
+  "只需一步即可创建匿名钱包"
+}
+{
+  "Answer"
+  "答复"
+}
+{
+  "Anyone can find your feed space in Discovery and follow."
+  "任何人都可以在发现和订阅中找到您维护的空间"
+}
+{
+  "Anyone can find your space in \"Discovery\" and join."
+  "任何人都可以进入这里聊天"
+}
+{
+  "Anyone who has the recovery phrase can control your account"
+  "任何拥有助记词的人都可以控制您的帐户"
+}
+{
+  "Application information"
+  "应用程序信息"
+}
+{
+  "Archive"
+  "保存"
+}
+{
+  "Archive Failed"
+  "保存失败"
+}
+{
+  "Are you sure to block the user?"
+  "确定要屏蔽该用户吗？"
+}
+{
+  "Are you sure to block this space? You will no longer see this space in Discovery, and it will be shown to fewer people."
+  "您确定要屏蔽此空间吗？你将不再在发现中看到这个空间，并且它被展示给他人的频率将减少"
+}
+{
+  "Are you sure to block this user?"
+  "您确定要屏蔽该用户吗？"
+}
+{
+  "Are you sure to change the setting? The recent file attached may fail to be downloaded."
+  "您确定要更改设置吗？最近附加的文件可能无法下载"
+}
+{
+  "Are you sure to clear chat history?"
+  "您确定要清除聊天记录吗？"
+}
+{
+  "Are you sure to delete all chat history and leave the space?"
+  "您确定要删除所有聊天记录并离开空间吗？"
+}
+{
+  "Are you sure to delete the account from the current device? It is irrevocable."
+  "您确定要从当前设备中删除该帐号吗？它是不可撤销的"
+}
+{
+  "Are you sure to delete the crypto address?"
+  "确定要删除加密地址吗？"
+}
+{
+  "Are you sure to delete the group?"
+  "您确定要删除该群聊吗？"
+}
+{
+  "Are you sure to delete this comment?"
+  "您确定要删除此评论吗？"
+}
+{
+  "Are you sure to delete this message on the local device?"
+  "您确定要删除本地设备上的此消息吗？"
+}
+{
+  "Are you sure to delete this post? Once deleted, it cannot be undone."
+  "您确定要删除此帖子吗？\n一旦删除，就无法撤消！"
+}
+{
+  "Are you sure to force login?"
+  "您确定要强制登录吗？"
+}
+{
+  "Are you sure to hide this space? You will no longer see this space in Discovery, and it will be shown to fewer people."
+  "您确定要隐藏此空间吗？你将不再在发现中看到这个空间，并且它被展示给他人的频率将减少"
+}
+{
+  "Are you sure to leave and delete?"
+  "您确定要离开并删除吗？"
+}
+{
+  "Are you sure to leave the space?"
+  "你确定要离开空间吗？"
+}
+{
+  "Are you sure to permanently delete this contact from the current view and clear all chat history?"
+  "您确定要将此联系人从当前窗口中永久删除并清除所有聊天记录吗？"
+}
+{
+  "Are you sure to remove the group members?"
+  "您确定要移除该成员吗？"
+}
+{
+  "Are you sure to reset this link? People are no longer able to join the group using the current link."
+  "您确定要重置此链接吗？重置后其他人无法再使用之前的链接加入群聊"
+}
+{
+  "Are you sure to unblock the user?"
+  "您确定要取消屏蔽该用户吗？"
+}
+{
+  "Are you sure to unfollow the space?"
+  "确定取消对该空间的关注吗？"
+}
+{
+  "Attachment Size Limit"
+  "附件大小限制"
+}
+{
+  "Attachments Loaded"
+  "已加载的附件"
+}
+{
+  "Attachments Total"
+  "附件总大小"
+}
+{
+  "Audio"
+  "音频"
+}
+{
+  "Audio Track %s"
+  "音轨%s"
+}
+{
+  "Audio Tracks"
+  "音轨"
+}
+{
+  "Audio cannot be forwarded."
+  "无法转发音频"
+}
+{
+  "Authentication canceled by user."
+  "用户取消了身份验证"
+}
+{
+  "Authorize"
+  "授权"
+}
+{
+  "Back"
+  "返回"
+}
+{
+  "Back to Wallet"
+  "返回钱包"
+}
+{
+  "Background body sensors"
+  "人体传感器"
+}
+{
+  "Background location"
+  "背景位置"
+}
+{
+  "Backup Recovery Phrase"
+  "备份助记词"
+}
+{
+  "Balance"
+  "余额"
+}
+{
+  "BeeID is the wallet ID and also WireMin ID. Transfers between BeeIDs are always free and instant through the 0xbee payment network."
+  "Beeid是钱包ID，也是WireMin ID。通过0xBee支付网络，BeeID之间的转账始终是免费和即时的。"
+}
+{
+  "Benchmark"
+  "性能测试"
+}
+{
+  "Benchmark may take 30 seconds"
+  "性能测试可能需要30秒"
+}
+{
+  "Benchmark with MultiCore"
+  "使用多核进行性能测试"
+}
+{
+  "Bitcoin Balance"
+  "Bitcoin余额"
+}
+{
+  "Blob Dropped"
+  "已发送Blob"
+}
+{
+  "Blob Received"
+  "已收到Blob"
+}
+{
+  "Blob Requested"
+  "已请求Blob"
+}
+{
+  "Blob Transferring"
+  "正在传输的Blob"
+}
+{
+  "Block"
+  "拉黑"
+}
+{
+  "Block (%s)"
+  "拉黑 (%s)"
+}
+{
+  "Block list"
+  "黑名单"
+}
+{
+  "Blocked individuals won’t be able to send messages, but they can still see the content in the space."
+  "被拉黑的个人将无法发送邮件，但他们仍可以查看共享空间中的内容。"
+}
+{
+  "Blue Wallet"
+  "Blue钱包"
+}
+{
+  "Born"
+  "创建时间"
+}
+{
+  "Both input and output Uri must be specified"
+  "必须同时指定输入和输出URI"
+}
+{
+  "Both local network and internet are not available, please check the network connection."
+  "自组网和互联网均不可用，请检查网络连接"
+}
+{
+  "Business Card"
+  "名片"
+}
+{
+  "Busy"
+  "忙碌中"
+}
+{
+  "Busy line"
+  "占线"
+}
+{
+  "By linking, you will synchronize your ID and data information with this device. This is irrevocable."
+  "通过链接，您将与此设备同步ID和数据信息。这是不可撤销的"
+}
+{
+  "Call Ended"
+  "通话结束"
+}
+{
+  "Calling..."
+  "正在拨打电话"
+}
+{
+  "Camera"
+  "相机"
+}
+{
+  "Cancel"
+  "取消"
+}
+{
+  "Cancel processing %s?"
+  "是否取消处理%s？"
+}
+{
+  "Canceled"
+  "已取消"
+}
+{
+  "Change"
+  "修改"
+}
+{
+  "Change Password"
+  "更改密码"
+}
+{
+  "Change to next month"
+  "改为下个月"
+}
+{
+  "Change to previous month"
+  "改为上个月"
+}
+{
+  "Character limit exceeded %1$d of %2$d"
+  "超出%1$d个字符，限制在%2$d个以内"
+}
+{
+  "Characters entered %1$d of %2$d"
+  "已输入%1$d个字符，限制%2$d个字符"
+}
+{
+  "Chat"
+  "聊天"
+}
+{
+  "Chat Information"
+  "聊天信息"
+}
+{
+  "Check for New Version"
+  "检查新版本"
+}
+{
+  "Checked"
+  "确认"
+}
+{
+  "Choose"
+  "选择"
+}
+{
+  "Choose Photo"
+  "选择照片"
+}
+{
+  "Choose Social Preference"
+  "选择社交偏好"
+}
+{
+  "Choose Space"
+  "选择空间"
+}
+{
+  "Choose Wallet"
+  "选择钱包"
+}
+{
+  "Choose a template for your space"
+  "为您的空间选择模板"
+}
+{
+  "Choose an app"
+  "选择一个应用程序"
+}
+{
+  "Choose token"
+  "选择密钥"
+}
+{
+  "Choose who can edit the space name, photo, description and etc. It cannot be changed after setup."
+  "选择谁可以编辑空间名称，照片，描述等。设置后无法更改。"
+}
+{
+  "Clean"
+  "清除"
+}
+{
+  "Clean Cache Completed"
+  "清理缓存已完成"
+}
+{
+  "Clear"
+  "清除"
+}
+{
+  "Clear All"
+  "清空"
+}
+{
+  "Clear Cache"
+  "清除缓存"
+}
+{
+  "Clear Chat History"
+  "清除聊天记录"
+}
+{
+  "Clear query"
+  "清除查询"
+}
+{
+  "Clear text"
+  "清除文本"
+}
+{
+  "Clearing…"
+  "正在清除.."
+}
+{
+  "Click to load more"
+  "单击以加载更多"
+}
+{
+  "Click to restart"
+  "单击以重新启动"
+}
+{
+  "Close"
+  "关闭"
+}
+{
+  "Collapse"
+  "折叠"
+}
+{
+  "Collapse the bottom sheet"
+  "折叠"
+}
+{
+  "Comment"
+  "评论"
+}
+{
+  "Commentary"
+  "评论"
+}
+{
+  "Complete"
+  "完成"
+}
+{
+  "Completed"
+  "完成"
+}
+{
+  "Confirm"
+  "确认"
+}
+{
+  "Confirm New Password"
+  "确认新密码"
+}
+{
+  "Confirm Password"
+  "确认密码"
+}
+{
+  "Confirm login on 0xbee"
+  "确认登录 0xbee"
+}
+{
+  "Congratulations on the creation of the new view"
+  "您创建了新窗口"
+}
+{
+  "Connect"
+  "同意"
+}
+{
+  "Connect Failed"
+  "同意失败"
+}
+{
+  "Connect Me on WireMin"
+  "在WireMin上联系我"
+}
+{
+  "Connect with the world and find new friends in your Discovery."
+  "与世界联系，在发现中找到新朋友"
+}
+{
+  "Connected"
+  "已添加好友"
+}
+{
+  "Connected, Group Friends"
+  "已添加好友、群友"
+}
+{
+  "Connecting"
+  "正在连接......"
+}
+{
+  "Connecting to Internet"
+  "正在使用自组网模式通信"
+}
+{
+  "Connecting to WireMin Network"
+  "正在连接到Wiremin网络"
+}
+{
+  "Connecting..."
+  "正在连接......"
+}
+{
+  "Connecting…"
+  "正在连接......"
+}
+{
+  "Connections"
+  "联系人"
+}
+{
+  "Contact"
+  "好友"
+}
+{
+  "Contact, Group Friends"
+  "好友，群友"
+}
+{
+  "Contacts"
+  "联系人"
+}
+{
+  "Content is not available"
+  "内容不可用"
+}
+{
+  "Copied"
+  "已复制"
+}
+{
+  "Copied to Clipboard"
+  "已复制到剪贴板"
+}
+{
+  "Copy"
+  "复制"
+}
+{
+  "Copy Link"
+  "复制链接"
+}
+{
+  "Copy WireMin ID"
+  "复制Wiremin ID"
+}
+{
+  "Copy as invite link"
+  "复制为邀请链接"
+}
+{
+  "Copy the link and open in Browser, WireMin will be launched successfully."
+  "复制链接并在浏览器中打开，Wiremin将成功启动。"
+}
+{
+  "Copy the link and open in Safari, WireMin will be launched successfully."
+  "复制链接并在Safari中打开，Wiremin将成功启动。"
+}
+{
+  "Copy to clipboard"
+  "复制到剪贴板"
+}
+{
+  "Create"
+  "创建"
+}
+{
+  "Create (%s)"
+  "创建(%s)"
+}
+{
+  "Create Account"
+  "创建帐户"
+}
+{
+  "Create New Group"
+  "创建新群聊"
+}
+{
+  "Create New View"
+  "创建新窗口"
+}
+{
+  "Create New WireMin ID"
+  "创建新的Wiremin ID"
+}
+{
+  "Create Space"
+  "创建空间"
+}
+{
+  "Create Your Space"
+  "创建您的空间"
+}
+{
+  "Create a New View for this Contact"
+  "打开该好友的聊天界面"
+}
+{
+  "Created by %s"
+  "由%s创建"
+}
+{
+  "Credits & Thanks"
+  "鸣谢 & 感激"
+}
+{
+  "Crypto Address"
+  "加密地址"
+}
+{
+  "Crypto address not set."
+  "未设置加密地址"
+}
+{
+  "Current Device"
+  "当前设备"
+}
+{
+  "Current View Contacts"
+  "当前页面的好友"
+}
+{
+  "Current selection: %1$s"
+  "当前选择：%1$s"
+}
+{
+  "DECENTRALIZED NETWORK"
+  "去中心化网络"
+}
+{
+  "DHT Network Size"
+  "DHT网络规模"
+}
+{
+  "DHT Routing Peers"
+  "DHT路由节点"
+}
+{
+  "DOWNLOADED LANGUAGES"
+  "已下载的语言"
+}
+{
+  "Daily Use!"
+  "日常使用"
+}
+{
+  "Dark"
+  "暗黑"
+}
+{
+  "Data Compression"
+  "数据压缩"
+}
+{
+  "Data Decompression"
+  "数据解压"
+}
+{
+  "Data Encryption"
+  "数据加密"
+}
+{
+  "Data synchronization is still incomplete and may fail, especially if the account has not been used for a long time. You may need to migrate from a device where the account is already logged in."
+  "数据同步仍未完成，并且可能会失败，尤其是在帐户长时间未使用的情况下。您可能需要从已登录帐户的设备进行迁移"
+}
+{
+  "Database Cached Read"
+  "数据库缓存读取"
+}
+{
+  "Database Read"
+  "数据库读取"
+}
+{
+  "Database Write"
+  "数据库写入"
+}
+{
+  "Date"
+  "日期"
+}
+{
+  "Decentralized Social Network"
+  "去中心化的社交网络"
+}
+{
+  "Decline"
+  "拒绝"
+}
+{
+  "Declined"
+  "已拒绝"
+}
+{
+  "Declined Call"
+  "已拒绝呼叫"
+}
+{
+  "Default"
+  "默认"
+}
+{
+  "Delete"
+  "删除"
+}
+{
+  "Delete Account"
+  "删除帐户"
+}
+{
+  "Delete Contact"
+  "删除好友"
+}
+{
+  "Delete Failed"
+  "删除失败"
+}
+{
+  "Delete Group"
+  "删除群聊"
+}
+{
+  "Delete Model"
+  "删除模式"
+}
+{
+  "Delete Post"
+  "删除帖子"
+}
+{
+  "Delete Space"
+  "删除空间"
+}
+{
+  "Delete and Disband Group"
+  "删除并解散群聊"
+}
+{
+  "Deleted"
+  "已删除"
+}
+{
+  "Deny"
+  "禁止"
+}
+{
+  "Deposit"
+  "收款"
+}
+{
+  "Deposit Address"
+  "收款地址"
+}
+{
+  "Deposit Bitcoin"
+  "Bitcoin收款地址"
+}
+{
+  "Deposit Details"
+  "收款详情"
+}
+{
+  "Deposit Ethereum"
+  "Ethereum收款地址"
+}
+{
+  "Deposit USDC"
+  "USDC收款地址"
+}
+{
+  "Deposit USDT"
+  "USDT收款地址"
+}
+{
+  "Describe your space (optional)"
+  "介绍您的空间（可选）"
+}
+{
+  "Description"
+  "介绍内容"
+}
+{
+  "Description (Optional）"
+  "介绍（可选）"
+}
+{
+  "Description not set"
+  "未设置介绍"
+}
+{
+  "Device Model"
+  "设备型号"
+}
+{
+  "Device Name"
+  "设备名称"
+}
+{
+  "Device Type"
+  "设备类型"
+}
+{
+  "Device User"
+  "设备用户"
+}
+{
+  "Device information"
+  "设备信息"
+}
+{
+  "Device or other identifiers"
+  "设备或其他标识符"
+}
+{
+  "Diagnostic Report"
+  "诊断报告"
+}
+{
+  "Dialog Icon"
+  "对话框图标"
+}
+{
+  "Digital Signing"
+  "数字签名"
+}
+{
+  "Direct Connected"
+  "直接连接"
+}
+{
+  "Disable Pay with %s"
+  "禁用%s支付"
+}
+{
+  "Disable subtitles"
+  "禁用字幕"
+}
+{
+  "Disappearing Message..."
+  "自动删除消息....."
+}
+{
+  "Disappearing Messages"
+  "自动删除消息"
+}
+{
+  "Disband and Delete"
+  "解散并删除"
+}
+{
+  "Disconnect"
+  "断开连接"
+}
+{
+  "Disconnected"
+  "已断开连接"
+}
+{
+  "Discovery"
+  "发现"
+}
+{
+  "Display Name"
+  "备注"
+}
+{
+  "Display over other apps"
+  "在其他应用程序上显示"
+}
+{
+  "Do you trust this device?"
+  "你信任这个设备吗？"
+}
+{
+  "Do you want to delete this contact from the current view? Once deleted, messages from this contact will no longer be accepted in the current view."
+  "是否要从当前窗口中删除此联系人？删除后，当前窗口中将不再接受来自此联系人的消息"
+}
+{
+  "Do you want to save pictures to your phone?"
+  "是否要将图片保存到手机？"
+}
+{
+  "Don't Allow"
+  "不允许"
+}
+{
+  "Don't Copy"
+  "不要复制"
+}
+{
+  "Don't Remove"
+  "不要删除"
+}
+{
+  "Don't have an account yet?"
+  "现在仍未有帐户？"
+}
+{
+  "Don't send ERC 20 tokens or NFTs."
+  "不要发送ERC 20或NFTs令牌"
+}
+{
+  "Done"
+  "完成"
+}
+{
+  "Download"
+  "下载"
+}
+{
+  "Download Model"
+  "下载模型"
+}
+{
+  "Download WireMin"
+  "下载Wiremin"
+}
+{
+  "Download completed"
+  "下载完成"
+}
+{
+  "Download failed"
+  "下载失败"
+}
+{
+  "Download failed. Please try again later."
+  "下载失败，请稍后再试"
+}
+{
+  "Download language to translate offline"
+  "下载需要离线翻译的语言"
+}
+{
+  "Downloaded models: %1$s"
+  "已下载模型：%1$s"
+}
+{
+  "Downloading"
+  "正在下载"
+}
+{
+  "Downloads"
+  "下载"
+}
+{
+  "Drag handle"
+  "拖动手柄"
+}
+{
+  "Drag handle double-tapped"
+  "双击拖动控制柄"
+}
+{
+  "Drag left to cancel & Drag right to send"
+  "向左拖动可取消&向右拖动可发送"
+}
+{
+  "Drop files here and send to %s"
+  "将文件拖放到此处并发送到%s"
+}
+{
+  "EXPLORE SPACE"
+  "探索空间"
+}
+{
+  "Easy Access"
+  "容易进入"
+}
+{
+  "Easy but not safe"
+  "方便但不安全"
+}
+{
+  "Edit"
+  "编辑"
+}
+{
+  "Edit Address"
+  "编辑地址"
+}
+{
+  "Edit Photo"
+  "编辑照片"
+}
+{
+  "Edit Profile"
+  "编辑配置文件"
+}
+{
+  "Edit Space Info"
+  "编辑空间信息"
+}
+{
+  "Email"
+  "电子邮件"
+}
+{
+  "Empty message won't go"
+  "空消息无法发送"
+}
+{
+  "Enable"
+  "启用"
+}
+{
+  "Enable Google Play services"
+  "启用Google Play services"
+}
+{
+  "Enable Notifications"
+  "启用通知"
+}
+{
+  "Enable Pay with %s"
+  "启用%s支付"
+}
+{
+  "Enable Spaces"
+  "启用空间"
+}
+{
+  "Enable subtitles"
+  "启用字幕"
+}
+{
+  "Enable voice call to and from other"
+  "启用与他人之间的语音呼叫"
+}
+{
+  "End date"
+  "结束日期"
+}
+{
+  "End date %1$s"
+  "结束日期：%1$s"
+}
+{
+  "End-to-End Encrypted"
+  "端到端加密"
+}
+{
+  "English"
+  "英语"
+}
+{
+  "Enjoy free in-app transfers and lower withdrawal fees"
+  "享受应用内免费的转账和更低的提款费用"
+}
+{
+  "Enter"
+  "输入"
+}
+{
+  "Enter Amount"
+  "输入金额"
+}
+{
+  "Enter BTC Address"
+  "输入BTC地址"
+}
+{
+  "Enter BeeID"
+  "输入BeeID"
+}
+{
+  "Enter ETH Address"
+  "输入ETH地址"
+}
+{
+  "Enter New View"
+  "进入新窗口"
+}
+{
+  "Enter Password"
+  "输入密码"
+}
+{
+  "Enter Password to Reveal"
+  "输入密码以显示"
+}
+{
+  "Enter Pay PIN"
+  "输入支付PIN"
+}
+{
+  "Enter Pay PIN to verify"
+  "输入支付PIN以进行验证"
+}
+{
+  "Enter USDC Address"
+  "输入USDC地址"
+}
+{
+  "Enter USDT Address"
+  "输入USDT地址"
+}
+{
+  "Enter WireMin ID"
+  "输入Wiremin ID"
+}
+{
+  "Enter WireMin ID or invite link"
+  "输入WireMin ID或邀请链接"
+}
+{
+  "Enter Your Password"
+  "输入您的密码"
+}
+{
+  "Enter a display name"
+  "输入备注"
+}
+{
+  "Enter a space invite link"
+  "输入一个空间邀请链接"
+}
+{
+  "Enter address"
+  "输入地址"
+}
+{
+  "Enter fullscreen"
+  "进入全屏"
+}
+{
+  "Enter or paste the Lightning Invoice"
+  "输入或粘贴闪电发票"
+}
+{
+  "Enter or paste the recovery phrase"
+  "输入或粘贴助记词"
+}
+{
+  "Enter the password to confirm"
+  "输入密码确认"
+}
+{
+  "Episode"
+  "集"
+}
+{
+  "Error"
+  "错误"
+}
+{
+  "Error codes"
+  "错误代码"
+}
+{
+  "Error, please try again"
+  "错误,请再试一次"
+}
+{
+  "Error: invalid"
+  "错误：无效"
+}
+{
+  "Ethereum Balance"
+  "Ethereum余额"
+}
+{
+  "Event type"
+  "事件类型"
+}
+{
+  "Everyone"
+  "每一个人"
+}
+{
+  "Everyone on WireMin can follow your feed space by this link."
+  "每个人都WireMin可以关注你的空间"
+}
+{
+  "Everyone on WireMin can join your space by this invite link."
+  "WireMin上的每个人都可以通过此链接访问您的订阅空间"
+}
+{
+  "Everyone on WireMin can scan this code to join your space."
+  "Wiremin上的每个人都可以扫描此二维码以加入您的共享空间"
+}
+{
+  "Example: %1$s"
+  "例如： %1$s"
+}
+{
+  "Exceed the maximum amount: 9,999,999,999,999"
+  "超过了最大数量:9999999999999"
+}
+{
+  "Exceed the maximum number of characters"
+  "超过最大字符数"
+}
+{
+  "Exit fullscreen"
+  "退出全屏"
+}
+{
+  "Expand halfway"
+  "扩大一半"
+}
+{
+  "Expand the bottom sheet"
+  "展开"
+}
+{
+  "Expire on"
+  "到期于"
+}
+{
+  "Expired QR code"
+  "过期的二维码"
+}
+{
+  "Explicit Content Warning"
+  "NSFW内容警告"
+}
+{
+  "Explore"
+  "探索"
+}
+{
+  "Explore Crypto Wallet"
+  "探索加密的钱包"
+}
+{
+  "Explore Space"
+  "探索空间"
+}
+{
+  "Failed"
+  "失败"
+}
+{
+  "Fast"
+  "快"
+}
+{
+  "Fast Mode"
+  "快速模式"
+}
+{
+  "Fast forward"
+  "快进"
+}
+{
+  "Fast forward %d second"
+  "快进%d秒"
+}
+{
+  "Fast forward %d seconds"
+  "快进%d秒"
+}
+{
+  "Feel free to talk and have fun here."
+  "你可以随意交谈，尽情享受言论自由"
+}
+{
+  "File"
+  "文件"
+}
+{
+  "File type not supported"
+  "不支持的文件类型"
+}
+{
+  "Files"
+  "文件"
+}
+{
+  "Fingerprint hardware not available."
+  "指纹硬件不可用"
+}
+{
+  "Fingerprint operation canceled by user."
+  "用户已取消指纹操作"
+}
+{
+  "Finnish"
+  "完成"
+}
+{
+  "Follow"
+  "订阅"
+}
+{
+  "Following"
+  "已订阅"
+}
+{
+  "For optimal performance and user experience, it is recommended to use WireMin with Wi-Fi due to the decentralized peer-to-peer network and the possibility of high data volume."
+  "由于分散式对等网络和高数据量使用，为了获得最佳性能和用户体验，建议将WireMin与Wi-Fi配合使用"
+}
+{
+  "For your eyes only"
+  "最高机密（For your eyes only）"
+}
+{
+  "Force Login"
+  "强制登录"
+}
+{
+  "Forget Device"
+  "忘记设备"
+}
+{
+  "Forward"
+  "转发"
+}
+{
+  "Free"
+  "免费"
+}
+{
+  "Frequent Asked Questions"
+  "常见问题"
+}
+{
+  "Friday"
+  "周五"
+}
+{
+  "From"
+  "来自"
+}
+{
+  "From %s"
+  "来自%s"
+}
+{
+  "From (BTC Address)"
+  "来自(BTC地址)"
+}
+{
+  "From (BeeID)"
+  "来自(BeeID)"
+}
+{
+  "From (ETH Address)"
+  "来自 (ETH Address)"
+}
+{
+  "From (USDC Address)"
+  "来自(USDC Address)"
+}
+{
+  "From (USDT Address)"
+  "来自 (USDT Address)"
+}
+{
+  "From (WireMin ID)"
+  "来自(WireMin ID)"
+}
+{
+  "Gender"
+  "性别"
+}
+{
+  "Get Google Play services"
+  "获取Google Play services"
+}
+{
+  "Get album data exception…"
+  "获取相册数据异常……"
+}
+{
+  "Get system camera permission denied"
+  "获取系统相机时没有权限"
+}
+{
+  "Go Setting"
+  "去设置"
+}
+{
+  "Go to Settings"
+  "去设置"
+}
+{
+  "Go to Wallet"
+  "前往钱包"
+}
+{
+  "Go to settings and enable?"
+  "去设置和启用吗?"
+}
+{
+  "Go to settings and set it up?"
+  "去设置并配置它吗?"
+}
+{
+  "Go to system preferences"
+  "进入系统设置"
+}
+{
+  "Google Play services availability"
+  "Google Play services可用"
+}
+{
+  "Google Play services error"
+  "Google Play services错误"
+}
+{
+  "Greetings"
+  "好友请求"
+}
+{
+  "Group Chat \"%s\""
+  "群聊消息\"%s\""
+}
+{
+  "Group Friends"
+  "群聊朋友"
+}
+{
+  "Group Members"
+  "群聊成员"
+}
+{
+  "Group Name"
+  "群聊名称"
+}
+{
+  "Group Owner"
+  "群聊所有者"
+}
+{
+  "Group Profile"
+  "群聊介绍"
+}
+{
+  "Hang Up"
+  "挂断电话"
+}
+{
+  "Hang up"
+  "挂断电话"
+}
+{
+  "Have you confirmed that the transaction has been completed on Ethereum Network?"
+  "您是否已确认交易已在以太坊网络上完成？"
+}
+{
+  "Have you confirmed that the transaction has been completed on Lightning Network?"
+  "您是否已确认交易已在闪电网络上完成？"
+}
+{
+  "Hey, I am on WireMin now. I would like to invite you to explore the WireMin Space. Here is the link: %s"
+  "嘿，我现在在Wiremin上。我想邀请你来探索WireMin空间。以下是链接：%s"
+}
+{
+  "Hey, I would like to invite you to chat and share on WireMin-a decentralized and secure instant messenger. Here is the link: %s"
+  "嘿，我现在在Wiremin上。我想邀请你来探索WireMin空间。以下是链接：%s"
+}
+{
+  "Hi, I'm %s"
+  "%s请求添加你为好友"
+}
+{
+  "Hide"
+  "隐藏"
+}
+{
+  "Hide additional settings"
+  "隐藏额外的设置"
+}
+{
+  "Hide player controls"
+  "隐藏播放器控件"
+}
+{
+  "Highly recommend"
+  "强烈推荐"
+}
+{
+  "Hold to Speak"
+  "按住说话"
+}
+{
+  "Hour"
+  "小时"
+}
+{
+  "Humiliation"
+  "侮辱内容"
+}
+{
+  "I Acknowledge"
+  "已确认"
+}
+{
+  "I have read and agree to the %s"
+  "我已阅读并同意%s"
+}
+{
+  "I sent %s ETH to your wallet address: \"%s\"."
+  "我发送了%s ETH到你的钱包地址:\"%s\""
+}
+{
+  "I sent %s SAT to your Bitcoin Lightning Wallet."
+  "我发送了%s SAT到你的比特币闪电的钱包。"
+}
+{
+  "I sent a random amount to your Bitcoin Lightning Wallet."
+  "我给你的比特币闪电钱包发了一笔随机数目的钱。"
+}
+{
+  "ID Not Found"
+  "没有找到ID"
+}
+{
+  "If data privacy is a concern, we strongly recommend avoiding the use of the translation features"
+  "如果数据隐私是一个问题，我们强烈建议避免使用翻译功能。"
+}
+{
+  "Import"
+  "导入"
+}
+{
+  "Import Failed"
+  "导入失败"
+}
+{
+  "Import Succeeded"
+  "导入成功"
+}
+{
+  "Import from Recovery Phrase Backup"
+  "从助记词备份导入"
+}
+{
+  "Importing..."
+  "导入中…"
+}
+{
+  "Incoming Greetings"
+  "好友请求"
+}
+{
+  "Incoming Video Call"
+  "有视频来电拨入！"
+}
+{
+  "Incoming Voice Call"
+  "有语音来电拨入！"
+}
+{
+  "Incoming call"
+  "有语音来电拨入！"
+}
+{
+  "Incoming video call"
+  "有视频来电拨入！"
+}
+{
+  "Incorrect Password"
+  "不正确的密码"
+}
+{
+  "Incorrect Password.You have %s more chances left."
+  "密码不正确，您还有%s次机会"
+}
+{
+  "Incorrect Password.You have 1 more chance left."
+  "密码不正确，您还有1次机会"
+}
+{
+  "Incorrect Pay PIN.\nPlease try again."
+  "不正确的支付密码，请再试一次"
+}
+{
+  "Infinite Chat Group"
+  "无限人数的群聊"
+}
+{
+  "Install"
+  "安装"
+}
+{
+  "Install unknown apps"
+  "安装不明来源的应用程序"
+}
+{
+  "Insufficient amount"
+  "金额不足"
+}
+{
+  "Insufficient amount to pay the network fee"
+  "金额不足以支付网络费用"
+}
+{
+  "Internet Connectivity"
+  "互联网连接"
+}
+{
+  "Internet is required for data synchronization unless it is an empty account without any contacts."
+  "除非是没有任何联系人的空帐户，否则需要使用Internet进行数据同步"
+}
+{
+  "Introducing WireMin\nCrypto Wallet"
+  "介绍WireMin加密钱包"
+}
+{
+  "Invalid Address"
+  "无效的地址"
+}
+{
+  "Invalid BeeID"
+  "无效的BeeID"
+}
+{
+  "Invalid Ethereum Address"
+  "无效的Ethereum地址"
+}
+{
+  "Invalid Link"
+  "无效的链接"
+}
+{
+  "Invalid QR Code"
+  "无效的二维码"
+}
+{
+  "Invalid QR code"
+  "无效的二维码"
+}
+{
+  "Invalid Recovery Phrase"
+  "无效的助记词"
+}
+{
+  "Invalid WireMin ID"
+  "无效WireMin ID"
+}
+{
+  "Invalid WireMin ID or invite link"
+  "无效的WireMin ID或邀请链接"
+}
+{
+  "Invalid credentials supplied. To get developer credentials, sign up for developer account at %1$s."
+  "提供的凭据无效。要获取开发人员凭据，请在%1$s注册开发人员帐户"
+}
+{
+  "Invalid format."
+  "无效的格式"
+}
+{
+  "Invalid range."
+  "无效的范围"
+}
+{
+  "Invite"
+  "邀请"
+}
+{
+  "Invite (%s)"
+  "邀请(%s)"
+}
+{
+  "Invite Friends"
+  "邀请朋友"
+}
+{
+  "Invite Friends to WireMin"
+  "推荐WireMin给朋友"
+}
+{
+  "Invite Link"
+  "邀请链接"
+}
+{
+  "Isolated Sub-Network"
+  "自组网模式"
+}
+{
+  "It can be a nickname, an alias, or whatever you want that shows to others."
+  "它可以是一个昵称，一个别名，或者任何你想展示给别人的东西。"
+}
+{
+  "It cannot be viewed because you have disabled Spaces in your Social Preference Setting."
+  "无法查看，因为您在社交首选项设置中禁用了共享空间"
+}
+{
+  "It's free to transfer to a BeeID!"
+  "转到Beeid是免费的！"
+}
+{
+  "It's very important to remember the password. If you forget it, there is no way to reset it. Therefore, we'll periodically request password verification to help you remember it. If you consistently enter it correctly, we'll ask less often."
+  "记住密码很重要。如果你忘记了，就没有办法重新设置了。因此，我们会定期要求您验证密码，以帮助您记住密码。如果你总是输入正确，我们就会减少询问的次数。"
+}
+{
+  "Join me on WireMin - a Decentralized and Secure Instant Messenger! %s"
+  "在WireMin上添加我为好友：这是一个分散和安全的即时通讯工具！%s"
+}
+{
+  "Joined"
+  "已加入"
+}
+{
+  "Keep Conversation History"
+  "保留对话历史记录"
+}
+{
+  "Keepalive Hashes"
+  "存活 Hashes"
+}
+{
+  "Keepalive Hashrate"
+  "存活 Hashrate"
+}
+{
+  "Key Encryption"
+  "已加密Key"
+}
+{
+  "Keys Keepalive"
+  "存活 Keys"
+}
+{
+  "Keys Loaded"
+  "已加载Keys"
+}
+{
+  "Keys Obsoleted"
+  "已弃用Keys"
+}
+{
+  "Keys Total"
+  "Keys总数"
+}
+{
+  "LARGE\nCOMMUNITY"
+  "大型社区"
+}
+{
+  "LET'S EXPLORE WIREMIN"
+  "让我们探索Wiremin"
+}
+{
+  "Label"
+  "标签"
+}
+{
+  "Language"
+  "语言"
+}
+{
+  "Last Login"
+  "上次登录"
+}
+{
+  "Last Read"
+  "最后一次读取"
+}
+{
+  "Last Seen"
+  "最后一次出现"
+}
+{
+  "Launch on System Startup"
+  "在系统启动时启动"
+}
+{
+  "Leave"
+  "离开"
+}
+{
+  "Leave and Delete"
+  "离开并删除"
+}
+{
+  "Leave and Delete Group"
+  "离开并删除群聊"
+}
+{
+  "Light"
+  "明亮"
+}
+{
+  "Lightning Invoice"
+  "闪电发票"
+}
+{
+  "Lightning-Fast"
+  "快如闪电"
+}
+{
+  "Limit Data Usage on Cellular"
+  "限制移动数据使用"
+}
+{
+  "Link"
+  "链接"
+}
+{
+  "Link a Device"
+  "链接设备"
+}
+{
+  "Loading"
+  "正在加载"
+}
+{
+  "Loading…"
+  "正在加载…"
+}
+{
+  "Location"
+  "位置"
+}
+{
+  "Log Out"
+  "登出"
+}
+{
+  "Log in with Twitter"
+  "使用Twitter登录"
+}
+{
+  "Logged in"
+  "已登录"
+}
+{
+  "Logging…"
+  "日志记录..."
+}
+{
+  "Login"
+  "登录"
+}
+{
+  "Login Failed"
+  "登录失败"
+}
+{
+  "Login as a New Account"
+  "作为新帐户登录"
+}
+{
+  "Login by Scanning a QR Code"
+  "通过扫描二维码登录"
+}
+{
+  "Login with Another Account"
+  "使用其他帐户登录"
+}
+{
+  "Login with QR Code"
+  "使用二维码登录"
+}
+{
+  "Login with a Password"
+  "使用密码登录"
+}
+{
+  "Logout Requested"
+  "已请求注销"
+}
+{
+  "Logout failed, please try again later"
+  "注销失败，请稍后再试"
+}
+{
+  "Lower Cost to Free"
+  "从低成本到免费"
+}
+{
+  "Manage Language"
+  "管理语言"
+}
+{
+  "Map styles"
+  "地图样式"
+}
+{
+  "Max"
+  "最大值"
+}
+{
+  "Media Availability Enhancement"
+  "媒体可用性增强"
+}
+{
+  "Media and Data"
+  "媒体和数据"
+}
+{
+  "Members in Secret Group"
+  "私密群聊中的成员"
+}
+{
+  "Members in Spaces"
+  "空间中的成员"
+}
+{
+  "Mention"
+  "提及"
+}
+{
+  "Mention everyone in this chat"
+  "在此聊天中提及所有人"
+}
+{
+  "Message"
+  "消息"
+}
+{
+  "Message Flow"
+  "消息流"
+}
+{
+  "Message Notifications"
+  "消息通知"
+}
+{
+  "Message Preview"
+  "消息预览"
+}
+{
+  "Message sent"
+  "消息发送"
+}
+{
+  "Messages"
+  "消息"
+}
+{
+  "Messages containing audio, transaction, or undownloaded files cannot be forwarded."
+  "无法转发包含音频、交易或未下载文件的消息"
+}
+{
+  "Messenger"
+  "信使"
+}
+{
+  "Microphone Not Found"
+  "未找到麦克风"
+}
+{
+  "Minimum %s BTC"
+  "至少 %s BTC"
+}
+{
+  "Minimum %s ETH"
+  "至少 %s ETH"
+}
+{
+  "Minimum %s USDC"
+  "至少 %s USDC"
+}
+{
+  "Minimum %s USDT"
+  "至少 %s USDT"
+}
+{
+  "Minute"
+  "分"
+}
+{
+  "Miscellaneous"
+  "其他的"
+}
+{
+  "Missed Call"
+  "未接电话"
+}
+{
+  "Modify Contact Sensitivity"
+  "修改接触敏感度"
+}
+{
+  "Modify system settings"
+  "修改系统设置"
+}
+{
+  "Monday"
+  "周一"
+}
+{
+  "More"
+  "更多"
+}
+{
+  "More Login Options"
+  "更多登录选项"
+}
+{
+  "More options"
+  "更多选项"
+}
+{
+  "More than %1$d new notifications"
+  "超过%1$d个新通知"
+}
+{
+  "Multiple"
+  "倍数"
+}
+{
+  "Mute"
+  "静音"
+}
+{
+  "My BeeID"
+  "我的BeeID"
+}
+{
+  "My Devices"
+  "我的设备"
+}
+{
+  "My ETH Address"
+  "我的ETH地址"
+}
+{
+  "My QR Code"
+  "我的二维码"
+}
+{
+  "My WireMin ID"
+  "我的Wiremin ID"
+}
+{
+  "Name"
+  "名称"
+}
+{
+  "Name is required"
+  "名称为必填项"
+}
+{
+  "Name is too long"
+  "名称太长"
+}
+{
+  "Name your space"
+  "为你的空间命名"
+}
+{
+  "Navigate home"
+  "导航到主页"
+}
+{
+  "Navigate to current year %1$d"
+  "导航到今年：1$d"
+}
+{
+  "Navigate to year %1$d"
+  "导航到%1$d年"
+}
+{
+  "Navigate up"
+  "向上导航"
+}
+{
+  "Network Fee"
+  "网络费用"
+}
+{
+  "Network Time"
+  "网络时间"
+}
+{
+  "Network error. Try again later."
+  "连接异常，请稍后再试"
+}
+{
+  "Never"
+  "不要"
+}
+{
+  "New Address"
+  "新地址"
+}
+{
+  "New Batch"
+  "刷新"
+}
+{
+  "New Password"
+  "新密码"
+}
+{
+  "New Post"
+  "新帖子"
+}
+{
+  "New Secret Group"
+  "新的私密群聊"
+}
+{
+  "New Space"
+  "新空间"
+}
+{
+  "New View Contacts"
+  "新聊天窗口"
+}
+{
+  "New View Created Successfully"
+  "已成功创建新窗口"
+}
+{
+  "New messages you send from this chat will disappear after selected time."
+  "您从此聊天发送的新消息将在选定时间后消失。"
+}
+{
+  "New notification"
+  "新通知"
+}
+{
+  "New secret group chat"
+  "新的私密群聊"
+}
+{
+  "New version of Google Play services needed. It will update itself shortly."
+  "需要更新版本的Google Play services，它很快就会自我更新"
+}
+{
+  "Next"
+  "转发"
+}
+{
+  "No"
+  "不要"
+}
+{
+  "No Group Chat"
+  "没有群聊"
+}
+{
+  "No Location"
+  "没有位置"
+}
+{
+  "No Message Selected"
+  "未选择消息"
+}
+{
+  "No More Data"
+  "没有更多数据"
+}
+{
+  "No PIN, pattern, or password set."
+  "未设置PIN、图案或密码"
+}
+{
+  "No QR-code found"
+  "未找到二维码"
+}
+{
+  "No Result"
+  "没有结果"
+}
+{
+  "No audio file\n"
+  "没有音频文件"
+}
+{
+  "No blocked users"
+  "没有被屏蔽的用户"
+}
+{
+  "No central server\nNo metadata collected\nNo personal information required\nNo IP tracked"
+  "不用中央服务器\n不收集元数据\n不需个人信息\n不跟踪IP"
+}
+{
+  "No data"
+  "没有数据"
+}
+{
+  "No fingerprints enrolled."
+  "没有登记指纹"
+}
+{
+  "No more data"
+  "没有更多数据"
+}
+{
+  "No users"
+  "没有用户"
+}
+{
+  "No video or photos\n"
+  "没有视频或照片"
+}
+{
+  "No, Chat Only"
+  "不，仅聊天"
+}
+{
+  "No, continue withdraw"
+  "不，继续撤回"
+}
+{
+  "None"
+  "无"
+}
+{
+  "Normal"
+  "普通"
+}
+{
+  "Normal: added contact to all views. Sensitive: this contact will only appear in the current view."
+  "普通：为所有视图添加了联系人。\n敏感：此联系人将仅显示在当前视图中"
+}
+{
+  "Not Answered"
+  "未应答"
+}
+{
+  "Not Available"
+  "不可用"
+}
+{
+  "Not Now"
+  "暂不"
+}
+{
+  "Not recognized"
+  "未被识别"
+}
+{
+  "Notification Mode"
+  "通知模式"
+}
+{
+  "Notifications"
+  "通知"
+}
+{
+  "Notifications and Sounds"
+  "通知和声音"
+}
+{
+  "OFF"
+  "关"
+}
+{
+  "OK"
+  "好"
+}
+{
+  "ON"
+  "开"
+}
+{
+  "Off"
+  "关"
+}
+{
+  "Offline"
+  "离线"
+}
+{
+  "Offline Translation powered by ML Kits Google"
+  "由ML Kits Google提供离线翻译支持"
+}
+{
+  "Ok"
+  "好"
+}
+{
+  "Old Password"
+  "旧密码"
+}
+{
+  "On WireMin Spaces, you can…"
+  "在Wiremin Spaces上，您可以…"
+}
+{
+  "On WireMin Spaces, you can…\nExpress your ideas freely and share moments with like-minded individuals.\nDiscover interesting topics and join discussions at any time.\nConnect with the world and make new friends without restraints."
+  "在Wiremin Spaces上，您可以…\n自由表达您的想法，与志趣相投的人分享精彩瞬间，随时发现有趣的话题并加入讨论，与世界联系，不受约束地结交新朋友"
+}
+{
+  "Once enabled, NSFW Spaces will not be displayed in your Discovery."
+  "启用后，NSFW(No Safe For Work)空间将不会显示在您的发现中"
+}
+{
+  "Once enabled, this setting cannot be changed."
+  "一旦启用，此设置将无法更改"
+}
+{
+  "Ongoing call"
+  "正在进行的通话"
+}
+{
+  "Online"
+  "在线"
+}
+{
+  "Only Creator"
+  "只有创建者"
+}
+{
+  "Only creator can edit."
+  "只有创建者可以编辑"
+}
+{
+  "Only deposit BTC to this address via the Bitcoin Network."
+  "仅通过比特币网络将BTC存入此地址"
+}
+{
+  "Only deposit ETH to this address via the Ethereum network (ERC20)."
+  "仅通过以太坊网络（ERC20）将ETH存入此地址"
+}
+{
+  "Only deposit USDC to this address via the Ethereum network (ERC20)."
+  "仅通过以太坊网络（ERC20）将USDC存入此地址"
+}
+{
+  "Only deposit USDT to this address via the Ethereum network (ERC20)."
+  "仅通过以太坊网络（ERC20）将USDT存入此地址"
+}
+{
+  "Only files in the episode.json format can be uploaded."
+  "只能上传episode.JSON格式的文件"
+}
+{
+  "Only support WalletConnect-compatible wallets"
+  "仅支持WalletConnect兼容钱包"
+}
+{
+  "Only this time"
+  "仅一次"
+}
+{
+  "Only videos from %1$ds to %2$ds can be selected"
+  "只能选择从%1$ds到%2$ds的视频"
+}
+{
+  "Open"
+  "打开"
+}
+{
+  "Open Failed"
+  "打开失败"
+}
+{
+  "Open WireMin to Add me"
+  "打开WireMin以添加我"
+}
+{
+  "Open in Browser and WireMin will be launched successfully."
+  "在浏览器中打开，Wiremin将成功启动"
+}
+{
+  "Open in Explore"
+  "在浏览器中打开"
+}
+{
+  "Open in Finder"
+  "在访达中打开"
+}
+{
+  "Open in Other App"
+  "在其他应用中打开"
+}
+{
+  "Open navigation drawer"
+  "打开导航抽屉"
+}
+{
+  "Open on phone"
+  "在手机上打开"
+}
+{
+  "Open screen banner notification"
+  "打开屏幕横幅通知"
+}
+{
+  "Or"
+  "或"
+}
+{
+  "Or, Login with Recovery Phrase"
+  "或使用助记词登录"
+}
+{
+  "Or, explore one of these…"
+  "或者探索其中一个..."
+}
+{
+  "Original"
+  "原始"
+}
+{
+  "Original Name"
+  "用户昵称"
+}
+{
+  "Other device accepted the call."
+  "其他设备已接受呼叫"
+}
+{
+  "Out of range: %1$s"
+  "超出范围：%1$s"
+}
+{
+  "Packet Loss: %s‰"
+  "丢包：%s‰"
+}
+{
+  "Paid"
+  "支付"
+}
+{
+  "Password Mismatch"
+  "密码不匹配"
+}
+{
+  "Password Reset Failed"
+  "密码重置失败"
+}
+{
+  "Password Reset Successfully"
+  "密码重置成功"
+}
+{
+  "Password has expired. Please log in again."
+  "密码已过期。请重新登录"
+}
+{
+  "Password is already in use."
+  "密码已在使用中"
+}
+{
+  "Password is too long."
+  "密码过长"
+}
+{
+  "Password mismatch"
+  "密码不匹配"
+}
+{
+  "Paste"
+  "粘贴"
+}
+{
+  "Pause"
+  "暂停"
+}
+{
+  "Paused"
+  "已暂停"
+}
+{
+  "Pay"
+  "支付"
+}
+{
+  "Pay Lightning Invoice"
+  "支付闪电发票"
+}
+{
+  "Pay PIN"
+  "支付密码"
+}
+{
+  "Pay PIN Mismatch"
+  "支付密码不匹配"
+}
+{
+  "Pay to"
+  "支付给"
+}
+{
+  "Pay to %s"
+  "支付给%s"
+}
+{
+  "Pay with Face Recognition\nor Fingerprint"
+  "人脸识别支付或者指纹"
+}
+{
+  "Payment"
+  "付款"
+}
+{
+  "Payment cannot be forwarded."
+  "付款不能转发"
+}
+{
+  "Peer Counts"
+  "节点数"
+}
+{
+  "Peering status: Fallback"
+  "节点状态：回退(Fallback)"
+}
+{
+  "Peering status: Unreachable"
+  "已使用自组网模式"
+}
+{
+  "Peering status: Unstable"
+  "节点状态：直连模式"
+}
+{
+  "Peers Nearby"
+  "局域网节点"
+}
+{
+  "Pending"
+  "等待中"
+}
+{
+  "People can find your space in discovery and join."
+  "其他人可以在发现中找到您的共享空间并加入。"
+}
+{
+  "People can only join your group by invite link."
+  "其他人只能通过邀请链接加入您的群"
+}
+{
+  "People can't join your space by Invite Link."
+  "其他人无法通过邀请链接加入您的共享空间"
+}
+{
+  "People who have sent messages in the space will be listed below."
+  "在空间中发送消息的人将在下面列出"
+}
+{
+  "Performance metrics"
+  "性能指标"
+}
+{
+  "Permanent"
+  "永久"
+}
+{
+  "Permanent Validity"
+  "永久有效"
+}
+{
+  "Permissions Required"
+  "需要权限"
+}
+{
+  "Permissions required."
+  "需要权限"
+}
+{
+  "Personal"
+  "个人"
+}
+{
+  "Photo"
+  "照片"
+}
+{
+  "Photograph"
+  "照片"
+}
+{
+  "Photos"
+  "照片"
+}
+{
+  "Pick a Display Name"
+  "选择备注"
+}
+{
+  "Picture Selection Cannot%1$sNumber"
+  "图片选择不能超过%1$s个"
+}
+{
+  "Picture save failed"
+  "图片保存失败"
+}
+{
+  "Ping: %s ms"
+  "Ping延迟: %s ms"
+}
+{
+  "Play"
+  "播放"
+}
+{
+  "Playback progress"
+  "播放进度"
+}
+{
+  "Please Allow Access"
+  "请允许访问"
+}
+{
+  "Please Enable Floating Window"
+  "请启用浮动窗口"
+}
+{
+  "Please agree to Terms & Privacy Policy"
+  "请同意条款和隐私政策"
+}
+{
+  "Please allow permission to access to your microphone so that you can record audio and make calls."
+  "请允许访问您的麦克风，以便您可以录制音频和拨打电话"
+}
+{
+  "Please authenticate to\nuse WireMin"
+  "请验证身份信息以使用WireMin"
+}
+{
+  "Please create a secret group chat with 2 or more friends"
+  "请与两个或更多朋右创建私密群聊"
+}
+{
+  "Please enable the floating window so that it can display over apps while running in the background."
+  "请启用浮动窗口，以便在后台运行时可以在应用程序上显示"
+}
+{
+  "Please ensure you only send Bitcoin (BTC) to this address using the Bitcoin main network. Depositing other tokens or NFTs may result in their permanent loss.\n\nThis unique address is linked directly to your WireMin user ID. It's important to note that the balance shown on the blockchain for this address might not always match the funds displayed in your WireMin wallet."
+  "请确保您仅使用比特币主网络向此地址发送比特币（BTC）。存放其他代币或NFT可能会导致其永久丢失。此唯一地址直接链接到您的Wiremin用户ID。值得注意的是，该地址在区块链上显示的余额可能并不总是与您的Wiremin钱包中显示的资金相匹配"
+}
+{
+  "Please ensure you only send Ethereum (ETH) to this address via the Ethereum network (ERC20). Depositing other tokens or NFTs may result in their permanent loss.\n\nThis unique address is linked directly to your WireMin user ID. It's important to note that the balance shown on the blockchain for this address might not always match the funds displayed in your WireMin wallet."
+  "请确保您仅通过以太坊网络（ERC20）将以太坊（ETH）发送到此地址。存放其他代币或NFT可能会导致其永久丢失。此唯一地址直接链接到您的Wiremin用户ID。值得注意的是，该地址在区块链上显示的余额可能并不总是与您的Wiremin钱包中显示的资金相匹配"
+}
+{
+  "Please ensure you only send USDC to this address via the Ethereum network (ERC20). Depositing other tokens or NFTs may result in their permanent loss.\n\nThis unique address is linked directly to your WireMin user ID. It's important to note that the balance shown on the blockchain for this address might not always match the funds displayed in your WireMin wallet."
+  "请确保您仅通过以太坊网络（ERC20）将USDC发送到此地址。存放其他代币或NFT可能会导致其永久丢失。此唯一地址直接链接到您的Wiremin用户ID。值得注意的是，该地址在区块链上显示的余额可能并不总是与您的Wiremin钱包中显示的资金相匹配"
+}
+{
+  "Please ensure you only send USDT to this address via the Ethereum network (ERC20). Depositing other tokens or NFTs may result in their permanent loss.\n\nThis unique address is linked directly to your WireMin user ID. It's important to note that the balance shown on the blockchain for this address might not always match the funds displayed in your WireMin wallet."
+  "请确保您仅通过以太坊网络（ERC20）将USDT发送到此地址。存放其他代币或NFT可能会导致其永久丢失。此唯一地址直接链接到您的Wiremin用户ID。值得注意的是，该地址在区块链上显示的余额可能并不总是与您的Wiremin钱包中显示的资金相匹配"
+}
+{
+  "Please enter password to stop the Remote Logout."
+  "请输入密码以停止远程注销"
+}
+{
+  "Please enter your WireMin sign-in password to authorize the reset of the Pay PIN."
+  "请输入您的WireMin登录密码以授权重置支付PIN"
+}
+{
+  "Please go to settings to allow permissions."
+  "请转到“设置”以允许权限"
+}
+{
+  "Please go to your device's settings > Apps > WireMin and set Microphone to ON."
+  "请转到设备的“设置”>“应用程序”>“Wiremin”并将麦克风设置为“打开”"
+}
+{
+  "Please input address"
+  "请输入地址"
+}
+{
+  "Please set a password to protect your private key and keep it in a safe place. Everything is stored on your local device. Nobody can reset or tamper it."
+  "请设置密码以保护您的私钥，并将其保存在安全的地方。一切都存储在您的本地设备上。没有人可以重置或篡改它"
+}
+{
+  "Please update to the latest version so that I can send you cryptos."
+  "请更新到最新版本，以便我可以向您发送密码"
+}
+{
+  "Pornography"
+  "色情内容"
+}
+{
+  "Post"
+  "发帖"
+}
+{
+  "Post Disappears after"
+  "帖子将在此之后消失"
+}
+{
+  "Powered by"
+  "技术提供："
+}
+{
+  "Press Back again to Exit"
+  "再按一次退出"
+}
+{
+  "Preview"
+  "预览"
+}
+{
+  "Preview(%1$d)"
+  "预览(%1$d)"
+}
+{
+  "Previous"
+  "预览"
+}
+{
+  "Privacy and Security"
+  "隐私和安全"
+}
+{
+  "Privacy · Security · Ownership"
+  "隐私·安全·所有权"
+}
+{
+  "Private space"
+  "私人空间"
+}
+{
+  "Private space can only be joined by invite."
+  "私人空间只能通过邀请加入"
+}
+{
+  "Profile"
+  "资料"
+}
+{
+  "Profile Settings"
+  "配置文件设置"
+}
+{
+  "Profile photo"
+  "介绍图片"
+}
+{
+  "Protected Contact"
+  "已加密的聊天"
+}
+{
+  "Public Space"
+  "公共空间"
+}
+{
+  "Public space created by this contact"
+  "公开空间由此人创建"
+}
+{
+  "Public space you created"
+  "创建公共空间"
+}
+{
+  "Pull Down To Refresh"
+  "下拉刷新"
+}
+{
+  "Pull Up To Load More"
+  "上拉加载更多"
+}
+{
+  "QR Code Scanning failed"
+  "二维码扫描失败"
+}
+{
+  "Quit"
+  "退出"
+}
+{
+  "Quote"
+  "个性签名"
+}
+{
+  "Random Amount"
+  "随机数量"
+}
+{
+  "Randomization"
+  "随机化"
+}
+{
+  "Re-enter the Pay PIN"
+  "重新输入支付密码"
+}
+{
+  "Read"
+  "已读"
+}
+{
+  "Read memory card access denied"
+  "读取储存卡时被拒绝访问"
+}
+{
+  "Receive"
+  "接收"
+}
+{
+  "Receive Bitcoin Tokens"
+  "接收比特币的令牌"
+}
+{
+  "Recent"
+  "最近"
+}
+{
+  "Recipient's ETH Address"
+  "接收者的ETH地址"
+}
+{
+  "Recommended"
+  "推荐"
+}
+{
+  "Recommended Spaces"
+  "推荐的空间"
+}
+{
+  "Record Video"
+  "录制视频"
+}
+{
+  "Recording without Audio"
+  "录音没有声音"
+}
+{
+  "Recovery Phrase"
+  "助记词"
+}
+{
+  "Recovery Phrase Backup"
+  "备份助记词"
+}
+{
+  "Recovery phrase is successfully verified"
+  "助记词验证成功"
+}
+{
+  "Recovery phrase provides an alternative way to login, in case that you forget the password or lose the device. It consistents of exactly 18 words, case insensitive. Please write them down and keep it in a safe place. Whoever have the recovery phrase may gain full control of the account."
+  "助记词提供了另一种登录方式，以防您忘记密码或丢失设备。它由18个单词组成，不区分大小写。请把它们写下来并保存在安全的地方。任何拥有助记词的人都可以获得对帐户的完全控制。"
+}
+{
+  "Refresh"
+  "刷新"
+}
+{
+  "Refresh Failed"
+  "刷新失败"
+}
+{
+  "Refresh Success"
+  "刷新成功"
+}
+{
+  "Refreshing…"
+  "正在刷新…"
+}
+{
+  "Refund"
+  "退款"
+}
+{
+  "Refund Details"
+  "退款细节"
+}
+{
+  "Region"
+  "地区"
+}
+{
+  "Relationship"
+  "关系"
+}
+{
+  "Release To Load More"
+  "松手加载更多"
+}
+{
+  "Release To Refresh"
+  "松手刷新"
+}
+{
+  "Release To Second Floor"
+  "发布到二楼"
+}
+{
+  "Release to Send"
+  "松开发送"
+}
+{
+  "Release to cancel"
+  "松开取消"
+}
+{
+  "Reload"
+  "重新加载"
+}
+{
+  "Remind Contact"
+  "提醒接触"
+}
+{
+  "Remote Logout"
+  "远程注销"
+}
+{
+  "Remove"
+  "删除"
+}
+{
+  "Remove %1$s"
+  "删除%1$s"
+}
+{
+  "Remove Contact from Current View"
+  "从当前视图删除联系人"
+}
+{
+  "Remove Contacts from Current View and Delete Chat From All Views"
+  "从当前视图中删除联系人并从所有视图中删除聊天"
+}
+{
+  "Remove Contacts from Current View and Delete Chat History"
+  "从当前视图中删除联系人并从所有视图中删除聊天"
+}
+{
+  "Remove Group Members"
+  "删除成员"
+}
+{
+  "Remove from All Old Views"
+  "删除所有旧视图"
+}
+{
+  "Remove from Current View"
+  "删除从当前视图"
+}
+{
+  "Remove the Selected Contact?"
+  "删除选中的联系人?"
+}
+{
+  "Remove(%s)"
+  "删除(%s)"
+}
+{
+  "Removing downloads"
+  "删除下载"
+}
+{
+  "Repeat all"
+  "重复所有"
+}
+{
+  "Repeat none"
+  "重复这些"
+}
+{
+  "Repeat one"
+  "重复"
+}
+{
+  "Reply"
+  "回复"
+}
+{
+  "Reply to %s:"
+  "回复%s:"
+}
+{
+  "Report"
+  "报告"
+}
+{
+  "Request failed. Try again later."
+  "请求失败。稍后再试。"
+}
+{
+  "Requested Failed"
+  "请求失败"
+}
+{
+  "Requesting..."
+  "发起请求中……"
+}
+{
+  "Reselect"
+  "重新选择"
+}
+{
+  "Reset"
+  "恢复为默认"
+}
+{
+  "Reset Password"
+  "重置密码"
+}
+{
+  "Reset Pay PIN"
+  "重置支付密码"
+}
+{
+  "Reset link"
+  "重置链接"
+}
+{
+  "Restore with Recovery Phrase"
+  "储存助记词"
+}
+{
+  "Retry"
+  "重试"
+}
+{
+  "Return"
+  "返回"
+}
+{
+  "Reveal"
+  "提示"
+}
+{
+  "Rewind"
+  "回退"
+}
+{
+  "Rewind %d second"
+  "回退%d秒"
+}
+{
+  "Rewind %d seconds"
+  "回退%d秒"
+}
+{
+  "Rotate"
+  "旋转"
+}
+{
+  "Rule Your Space"
+  "管理你的空间"
+}
+{
+  "SPEAK\nFREELY"
+  "言论自由"
+}
+{
+  "Saturday"
+  "周六"
+}
+{
+  "Save"
+  "保存"
+}
+{
+  "Save As Picture"
+  "另存为图片"
+}
+{
+  "Save Failed"
+  "保存失败"
+}
+{
+  "Save Photo"
+  "保存照片"
+}
+{
+  "Save picture successfully until"
+  "成功保存图片到"
+}
+{
+  "Saved to Album"
+  "保存到相册"
+}
+{
+  "Saved to File"
+  "保存到文件"
+}
+{
+  "Say something to all audiences (optional)"
+  "对访客说点什么（可选）"
+}
+{
+  "Scale"
+  "缩放"
+}
+{
+  "Scan"
+  "扫描"
+}
+{
+  "Scan Me"
+  "扫描给我"
+}
+{
+  "Scan QR Code"
+  "扫描二维码"
+}
+{
+  "Scan or upload this QR code to add\nme on WireMin"
+  "扫描或上传此二维码以在Wiremin上添加我"
+}
+{
+  "Scan or upload this QR code to join\nWireMin space"
+  "扫描和上传这个二维码加入\nWireMin空间"
+}
+{
+  "Scan successfully\nEnter your password on the other device to confirm login"
+  "扫描成功\n输入您的密码"
+}
+{
+  "Scan this QR Code with WireMin camera to log in instantly"
+  "使用WireMin相机扫描此二维码即可登录"
+}
+{
+  "Screen Locked"
+  "屏幕锁定"
+}
+{
+  "Screening an incoming call"
+  "屏蔽来电"
+}
+{
+  "Search"
+  "搜索"
+}
+{
+  "Search Location"
+  "搜索位置"
+}
+{
+  "Search query"
+  "搜索查询"
+}
+{
+  "Search…"
+  "搜索…"
+}
+{
+  "Secret Groups"
+  "私密群聊"
+}
+{
+  "Secret group created"
+  "已建立私密群聊"
+}
+{
+  "Secret group member has reached the maximum, up to 10 people allowed."
+  "私密群聊成员已达到上限，最多允许10人"
+}
+{
+  "Secure Hash"
+  "加密Hash"
+}
+{
+  "Secure · Private · Ownership"
+  "安全·隐私·所有权"
+}
+{
+  "See all"
+  "查看所有"
+}
+{
+  "See more"
+  "查看更多"
+}
+{
+  "Select"
+  "选择"
+}
+{
+  "Select AM or PM"
+  "选择上午或下午"
+}
+{
+  "Select All"
+  "选择所有"
+}
+{
+  "Select Contact"
+  "选择好友"
+}
+{
+  "Select Contacts"
+  "选择好友"
+}
+{
+  "Select Date"
+  "选择日期"
+}
+{
+  "Select Range"
+  "选择范围"
+}
+{
+  "Select hour"
+  "选择小时"
+}
+{
+  "Select minutes"
+  "选择分钟"
+}
+{
+  "Select time"
+  "选择时间"
+}
+{
+  "Select up to %1$s Audio"
+  "选择%1$s音频"
+}
+{
+  "Select up to %1$s Video"
+  "选择%1$s视频"
+}
+{
+  "Select up to %1$s image"
+  "选择到%1$s形象"
+}
+{
+  "Select up to %1$s images or videos"
+  "选择到%1$s图像或视频"
+}
+{
+  "Select up to %s contacts and groups"
+  "选择%s好友和群聊"
+}
+{
+  "Selected date"
+  "已选择的日期"
+}
+{
+  "Send"
+  "发送"
+}
+{
+  "Send ETH"
+  "发送ETH"
+}
+{
+  "Send Failed"
+  "发送失败"
+}
+{
+  "Send To"
+  "发送到"
+}
+{
+  "Sensitive"
+  "敏感的"
+}
+{
+  "Set Display Name"
+  "设置备注"
+}
+{
+  "Set Group Name"
+  "设置群聊名称"
+}
+{
+  "Set Group Region"
+  "设置群聊地区"
+}
+{
+  "Set Lock Time"
+  "设置锁定时间"
+}
+{
+  "Set Password"
+  "设置密码"
+}
+{
+  "Set Personal Profile"
+  "设置个人资料"
+}
+{
+  "Set Space Name"
+  "设置空间名称"
+}
+{
+  "Set Wallet Address"
+  "设置钱包地址"
+}
+{
+  "Set a 6-digit Pay PIN for payment verification."
+  "设置一个6位数的支付密码"
+}
+{
+  "Set a Password"
+  "设置一个密码"
+}
+{
+  "Set a Pay PIN to Secure Wallet"
+  "设置一个密码以保护钱包"
+}
+{
+  "Set as Default View"
+  "设置为默认视图"
+}
+{
+  "Set as Main Address"
+  "设置为主要地址"
+}
+{
+  "Set now"
+  "现在设置"
+}
+{
+  "Settings"
+  "设置"
+}
+{
+  "Shake the phone to switch to the default view"
+  "摇动手机切换到默认视图"
+}
+{
+  "Share"
+  "分享"
+}
+{
+  "Share Card"
+  "分享名片"
+}
+{
+  "Share Failed"
+  "分享失败"
+}
+{
+  "Share Feed Space"
+  "分享到空间"
+}
+{
+  "Share Invoice"
+  "分享发票"
+}
+{
+  "Share Link"
+  "分享链接"
+}
+{
+  "Share Post"
+  "分享文章"
+}
+{
+  "Share QR code"
+  "分享二维码"
+}
+{
+  "Share Space"
+  "共享空间"
+}
+{
+  "Share Your Profile"
+  "分享你的资料"
+}
+{
+  "Share Your Voice"
+  "分享你的声音"
+}
+{
+  "Share this link with friends to let them quickly join this group."
+  "把这个链接分享给朋友，让他们快速加入这个群。"
+}
+{
+  "Share with"
+  "分享给"
+}
+{
+  "Share with %s"
+  "分享给%s"
+}
+{
+  "Share your voice"
+  "分享个人想法"
+}
+{
+  "Shot"
+  "拍摄"
+}
+{
+  "Shout"
+  "公屏消息"
+}
+{
+  "Shout: Send a message to everyone"
+  "公屏消息:将消息发送给每个人"
+}
+{
+  "Show additional settings"
+  "显示附加的设置"
+}
+{
+  "Show dropdown menu"
+  "显示下拉菜单"
+}
+{
+  "Show password"
+  "显示密码"
+}
+{
+  "Show player controls"
+  "显示用户控制"
+}
+{
+  "Show traffic"
+  "显示交通"
+}
+{
+  "Sign in"
+  "登录"
+}
+{
+  "Sign in with Google"
+  "使用Google登录"
+}
+{
+  "Signal Lost"
+  "信号丢失"
+}
+{
+  "Signal Not Found"
+  "无信号"
+}
+{
+  "Signing Verification"
+  "签名验证"
+}
+{
+  "Single Core: %s"
+  "单核:%s"
+}
+{
+  "Size: %s"
+  "大小: %s"
+}
+{
+  "Skip"
+  "跳过"
+}
+{
+  "Skip Intro"
+  "跳过介绍"
+}
+{
+  "Skip this Version"
+  "忽略此版本"
+}
+{
+  "Slow"
+  "慢"
+}
+{
+  "Slow Mode"
+  "普通模式"
+}
+{
+  "Social Preferences"
+  "社交偏好"
+}
+{
+  "Social View"
+  "社交浏览"
+}
+{
+  "Sounds"
+  "声音"
+}
+{
+  "Space"
+  "空间"
+}
+{
+  "Space Invitation"
+  "邀请空间"
+}
+{
+  "Space Name"
+  "空间名称"
+}
+{
+  "Space Notification"
+  "空间通知"
+}
+{
+  "Space Rules"
+  "空间规则"
+}
+{
+  "Space Setting"
+  "空间设置"
+}
+{
+  "Spaces"
+  "空间"
+}
+{
+  "Spaces Filtering"
+  "空间筛选"
+}
+{
+  "Spam"
+  "垃圾内容"
+}
+{
+  "Speed"
+  "速度"
+}
+{
+  "Start"
+  "开始"
+}
+{
+  "Start date"
+  "开始日期"
+}
+{
+  "Start date %1$s"
+  "开始日期%1$s"
+}
+{
+  "Start date – %1$s"
+  "开始日期 – %1$s"
+}
+{
+  "Start date – End date"
+  "开始日期 – 结束日期"
+}
+{
+  "Stay On"
+  "保留"
+}
+{
+  "Stay anonymous with complete freedom of expression: no dedicated relay, no censorship, and no account banning."
+  "保持匿名和完全的言论自由：\n没有服务器，没有审查，也没有帐户禁止"
+}
+{
+  "Stay connected with the community to share your interests. The more, the merrier."
+  "与社区保持联系，分享您的兴趣。 多多益善"
+}
+{
+  "Stop"
+  "停止"
+}
+{
+  "Stop (%ss)"
+  "停止 (%ss)"
+}
+{
+  "Stop Remote Logout"
+  "停止远程注销"
+}
+{
+  "Stopped"
+  "已停止"
+}
+{
+  "Stranger"
+  "陌生人"
+}
+{
+  "Strike"
+  "罢工"
+}
+{
+  "Sub-Network"
+  "网络已连接"
+}
+{
+  "Submit query"
+  "提交查询"
+}
+{
+  "Subtitles"
+  "字幕"
+}
+{
+  "Success"
+  "成功"
+}
+{
+  "Suggested way to backup"
+  "建议的备份方式"
+}
+{
+  "Sunday"
+  "周日"
+}
+{
+  "Supplementary"
+  "补充"
+}
+{
+  "Surround sound"
+  "环绕立体声"
+}
+{
+  "Swarm Peers"
+  "连接/可用节点"
+}
+{
+  "Switch Account"
+  "切换帐户"
+}
+{
+  "Switch to calendar input mode"
+  "切换到日历输入模式"
+}
+{
+  "Switch to clock mode for the time input."
+  "切换到时间输入的时钟模式"
+}
+{
+  "Switch to text input mode"
+  "切换到文本输入模式"
+}
+{
+  "Switch to text input mode for the time input."
+  "切换到时间输入的文本输入模式"
+}
+{
+  "Synchronizing…"
+  "正在同步…"
+}
+{
+  "System"
+  "系统"
+}
+{
+  "System Status"
+  "系统状态"
+}
+{
+  "Take a screenshot"
+  "截图"
+}
+{
+  "Tap and hold the button above, or press and hold 'Ctrl'/'Command' key in your keyboard to speak"
+  "点击并按住上面的按钮，或按住键盘上的“Ctrl”/“Command”键以说话"
+}
+{
+  "Tap to call again"
+  "轻触以再次呼叫"
+}
+{
+  "Tap to call back"
+  "点击回拨"
+}
+{
+  "Tap to switch to Calendar view"
+  "点击切换到日历视图"
+}
+{
+  "Tap to switch to year view"
+  "点击切换至年份视图"
+}
+{
+  "Tap to take photo and hold to record video"
+  "轻按可拍照，按住可录制视频"
+}
+{
+  "Tap to unlock"
+  "点击解锁"
+}
+{
+  "Terms & Privacy Policy"
+  "条款和隐私政策"
+}
+{
+  "The QR code has expired"
+  "二维码已过期"
+}
+{
+  "The WireMin notifications has been turned off. Do you want to turn it on?"
+  "WireMin通知已关闭。你想打开它吗？"
+}
+{
+  "The address already exists"
+  "地址已存在"
+}
+{
+  "The address is linked to a BeeID. Use free and instant Transfer?"
+  "地址链接到一个BeeID。使用免费和即时转账？"
+}
+{
+  "The audio is corrupted"
+  "音频已损坏"
+}
+{
+  "The balance on the blockchain for this address may not match the balance in your wallet."
+  "此地址在区块链上的余额可能与您钱包中的余额不匹配"
+}
+{
+  "The content view in SmartRefreshLayout is empty. Do you forget to add it in xml layout file?"
+  "Smart Refresh Layout中的内容视图为空。您是否忘记在XML布局文件中添加它？"
+}
+{
+  "The developer credentials for this map are not valid. Please check with the provider if there are any updates."
+  "此映射的开发人员凭据无效。如果有任何更新，请与提供商联系"
+}
+{
+  "The feed only displays posts within %s."
+  "订阅源仅显示%s内的帖子"
+}
+{
+  "The file has been deleted"
+  "文件已被删除"
+}
+{
+  "The file is invalid"
+  "文件无效"
+}
+{
+  "The invite link has expired."
+  "邀请链接已过期"
+}
+{
+  "The invite link is invalid."
+  "邀请链接无效"
+}
+{
+  "The language could not be automatically detected. Select a language to translate from."
+  "无法自动检测语言。选择要翻译的语言"
+}
+{
+  "The maximum attachment size in space is 3.2 MB."
+  "空间中的最大附件大小为3.2 MB"
+}
+{
+  "The maximum attachment size is %s. You can change the size limit in Space Settings."
+  "最大附件大小为%s。您可以在“空间设置”中更改大小限制"
+}
+{
+  "The maximum file size is %sMB."
+  "最大文件大小为%sMB"
+}
+{
+  "The message has been unsent"
+  "消息已被取消发送"
+}
+{
+  "The network is not available."
+  "网络不可用"
+}
+{
+  "The network is not stable."
+  "网络：直连模式"
+}
+{
+  "The new view contains selected contacts exclusively. Do you want to copy all the rest?"
+  "新视图只包含选定的联系人。你想把剩下的都复制吗？"
+}
+{
+  "The other party has not set up a receiving wallet address, please remind them to set it up to receive tokens."
+  "对方未设置接收钱包地址，请提醒其设置为接收代币"
+}
+{
+  "The picture is corrupted"
+  "照片已损坏"
+}
+{
+  "The request has timed out."
+  "请求超时"
+}
+{
+  "The secret group can hold up to 10 people. Group member has reached the maximum."
+  "私密群聊最多可容纳10人。组成员已达到最大值。"
+}
+{
+  "The secret group has been disbanded."
+  "私密群聊已经解散"
+}
+{
+  "The user '%s' will be removed from the device permanently and irrevocably. Make sure the account has been migrated to other device or you have the Recovery phrase."
+  "用户“%s”将从设备中永久且不可撤销地删除。确保帐户已迁移到其他设备，或者您有助记词"
+}
+{
+  "The user doesn't accept greeting\nrequest from anonymous."
+  "用户不允许此方式的好友请求"
+}
+{
+  "The user doesn't accept greeting request\nfrom anonymous."
+  "用户不允许此方式的好友请求"
+}
+{
+  "The video is corrupted"
+  "视频已损坏"
+}
+{
+  "Theme"
+  "主题"
+}
+{
+  "There are no active peers."
+  "没有可用的节点"
+}
+{
+  "There is no contact."
+  "没有联系人"
+}
+{
+  "There is no group member to be removed."
+  "没有群聊成员会被删除"
+}
+{
+  "There is no incoming greeting."
+  "没有收到好友请求"
+}
+{
+  "There is no message."
+  "没有消息"
+}
+{
+  "There is no notification."
+  "没有通知"
+}
+{
+  "There is no public space to be explored."
+  "没有探索到公共空间"
+}
+{
+  "There no data here…"
+  "这里没有数据…"
+}
+{
+  "Therefore, override color resource (ucrop_color_toolbar_widget) in your app to make it work on pre-L devices"
+  "因此，请覆盖应用程序中的颜色资源（UCROP_COLOR_TOOLBAR_WIDGET），以使其在Pre-L设备上工作"
+}
+{
+  "This QR code is unrecognized.\nPlease check and try again later."
+  "此二维码无法识别。请检查并稍后重试"
+}
+{
+  "This allows WireMin to discover devices in your local network for faster data replication. The discovery is done anonymously without revealing your identity or else."
+  "这使得Wiremin能够发现本地网络中的设备，从而加快数据复制速度。这项发现是匿名完成的，不会泄露你的身份或其他信息。"
+}
+{
+  "This allows WireMin to pick an existing photo on your behalf and send it to the intended recipient or use it as an avatar. Photos are end-to-end encrypted and will not be stored or collected by us."
+  "这允许Wiremin以您的名义挑选现有照片，并将其发送给预期收件人或将其用作头像。照片是端到端加密的，我们不会存储或收集。"
+}
+{
+  "This allows WireMin to record a short voice clip and send it to the intended recipient. Voice clips are end-to-end encrypted and will not be stored or collected by us."
+  "这允许Wiremin录制简短的语音剪辑并将其发送给预期的接收者。语音剪辑是端到端加密的，我们不会存储或收集。"
+}
+{
+  "This allows WireMin to save the selected image, or video, in your photo library."
+  "这允许WireMin将所选图像或视频保存在照片库中。"
+}
+{
+  "This allows WireMin to set a location on your behalf and send to the intended recipient, or to show your current position when displaying ones from others."
+  "这允许Wiremin以您的名义设置位置并发送给预期收件人，或者在显示其他收件人时显示您的当前位置。"
+}
+{
+  "This allows WireMin to take a picture or record a video clip on your behalf and send it to the intended recipient or use it as an avatar. Pictures and videos are end-to-end encrypted and will not be stored or collected by us."
+  "这允许Wiremin以您的名义拍摄照片或录制视频剪辑，并将其发送给预期的收件人或将其用作头像。图片和视频是端到端加密的，我们不会存储或收集。"
+}
+{
+  "This app may not work correctly without the requested permissions."
+  "如果没有请求的权限，此应用可能无法正常工作。"
+}
+{
+  "This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions."
+  "如果没有请求的权限，此应用程序可能无法正常运行。打开应用程序设置屏幕以修改应用程序权限。"
+}
+{
+  "This business card is expired. Please get a new one."
+  "名片无效了，请重新获取"
+}
+{
+  "This can be changed in Personal>Settings>Social Preference at any time."
+  "这可以随时在“个人”>“设置”>“社交首选项”中进行更改。"
+}
+{
+  "This comment has been deleted."
+  "评论已被删除"
+}
+{
+  "This device does not have a fingerprint sensor"
+  "这个设备没有指纹传感器"
+}
+{
+  "This device does not support PIN, pattern, or password."
+  "这个设备不支持销、模式或通过"
+}
+{
+  "This episode cannot be played.\nPlease reload and try again."
+  "本集无法播放\n请重新加载并重试"
+}
+{
+  "This is a unique ID derived from your private key which is encrypted and stored on your local device only. You will set a password to protect it, in the next step."
+  "这是从您的私钥派生的唯一ID，该私钥已加密并仅存储在您的本地设备上。在转发中，您将设置一个密码来保护它。"
+}
+{
+  "This is the Latest Version"
+  "这是最新的版本"
+}
+{
+  "This is your own address. Continue withdraw?"
+  "这是你自己的地址。继续撤回？"
+}
+{
+  "This map is no longer available for use. Please contact the creator of this app to see if there are potential app updates that resolve this issue."
+  "此地图不再可用。请与此应用程序的创建者联系，以查看是否有解决此问题的潜在应用程序更新。"
+}
+{
+  "This message can not be forwarded."
+  "这个消息不能转发"
+}
+{
+  "This message has been deleted."
+  "此消息已被删除"
+}
+{
+  "This message has disappeared."
+  "这个消息已经消失了"
+}
+{
+  "This old version is no longer compatible. For a better experience, please update to the latest version."
+  "这个旧版本不再兼容。为了获得更好的体验，请更新到最新版本"
+}
+{
+  "This post has been deleted or disappeared."
+  "这篇文章已被删除或消失了"
+}
+{
+  "This post has been deleted."
+  "这篇文章已被删除"
+}
+{
+  "This post has disappeared."
+  "这篇文章已经消失了"
+}
+{
+  "This post will disappear after %s"
+  "这篇文章将会消失于%s"
+}
+{
+  "This space has been deleted."
+  "这个空间已被删除"
+}
+{
+  "This space has been disbanded."
+  "这个空间被解散"
+}
+{
+  "This space may contains NSFW (Not Safe For Work) content. A warning prompt will appear if you flag it."
+  "此空间可能包含NSFW（工作不安全）内容。如果您将其标记，则会出现警告提示。"
+}
+{
+  "Thursday"
+  "周四"
+}
+{
+  "Time out. This message cannot be unsent."
+  "超时，无法取消发送此消息"
+}
+{
+  "Timestamp"
+  "时间戳"
+}
+{
+  "To (BTC Address)"
+  "接收者（BTC地址）"
+}
+{
+  "To (BeeID)"
+  "接收者（BeeID地址）"
+}
+{
+  "To (ETH Address)"
+  "接收者（ETH地址）"
+}
+{
+  "To (USDC Address)"
+  "接收者（USDC地址）"
+}
+{
+  "To (USDT Address)"
+  "接收者（USDT地址）"
+}
+{
+  "To (WireMin ID)"
+  "接收者（WireMin ID）"
+}
+{
+  "To BeeID"
+  "至BeeID"
+}
+{
+  "To address"
+  "至地址"
+}
+{
+  "To make a transaction, the other party needs to update to the latest version. Would you like to send an update reminder now?"
+  "要进行交易，对方需要更新到最新版本。是否要立即发送更新提醒？"
+}
+{
+  "Today"
+  "今天"
+}
+{
+  "Today %1$s"
+  "今天 %1$s"
+}
+{
+  "Token"
+  "代币"
+}
+{
+  "Too many attempts. Please try again later."
+  "尝试太多了。请稍后再试"
+}
+{
+  "Total"
+  "总计"
+}
+{
+  "Touch the fingerprint sensor"
+  "触摸指纹传感器"
+}
+{
+  "Transaction Details"
+  "交易明细"
+}
+{
+  "Transaction Hash"
+  "交易Hash"
+}
+{
+  "Transaction ID"
+  "交易ID"
+}
+{
+  "Transaction Type"
+  "交易种类"
+}
+{
+  "Transfer"
+  "转账"
+}
+{
+  "Transfer Cryptos in a flash"
+  "瞬息间交易货币"
+}
+{
+  "Transferring: %s"
+  "转账中: %s"
+}
+{
+  "Translate"
+  "翻译"
+}
+{
+  "Translated text"
+  "翻译文本"
+}
+{
+  "Translating…"
+  "正在翻译中......"
+}
+{
+  "Tuesday"
+  "周二"
+}
+{
+  "Turn ON Notification in Settings"
+  "在“设置”中打开通知"
+}
+{
+  "Turn on Notification"
+  "打开通知"
+}
+{
+  "ULTIMATE PRIVATE & SECURE"
+  "终极隐秘与安全保护"
+}
+{
+  "USDC Balance"
+  "USDC余额"
+}
+{
+  "USDT Balance"
+  "USDT余额"
+}
+{
+  "Unable To Record Audio"
+  "无法录制音频"
+}
+{
+  "Unable to access the Photo Album"
+  "无法访问相册"
+}
+{
+  "Unable to add to your Photos"
+  "无法添加到您的照片"
+}
+{
+  "Unable to load this page"
+  "无法加载此页面"
+}
+{
+  "Unable to open the camera"
+  "无法打开相机"
+}
+{
+  "Unable to open this type of file. You may use other apps to open it."
+  "无法打开此类型的文件。您可以使用其他应用程序打开它"
+}
+{
+  "Unable to read and write Photo Album"
+  "无法读取和写入相册"
+}
+{
+  "Under the Hood"
+  "系统信息"
+}
+{
+  "Undownloaded audio and message cannot be forwarded."
+  "无法转发未下载的音频和消息"
+}
+{
+  "Undownloaded files cannot be forwarded."
+  "无法转发未下载的文件"
+}
+{
+  "Undownloaded message cannot be forwarded."
+  "无法转发未下载的消息"
+}
+{
+  "Unfollow"
+  "取消关注"
+}
+{
+  "Unknown"
+  "未知"
+}
+{
+  "Unknown error"
+  "未知错误"
+}
+{
+  "Unknown error occurred."
+  "发生未知错误"
+}
+{
+  "Unlimited participants."
+  "聊天人数无上限"
+}
+{
+  "Unlock Screen?"
+  "解锁屏幕？"
+}
+{
+  "Unread"
+  "未读"
+}
+{
+  "Unsend"
+  "取消发送"
+}
+{
+  "Unsend for everyone"
+  "为所有人取消发送"
+}
+{
+  "Unsend for me"
+  "为我取消发送"
+}
+{
+  "Unset"
+  "未设置"
+}
+{
+  "Unsupported type of message"
+  "不支持的消息类型"
+}
+{
+  "Update"
+  "更新"
+}
+{
+  "Update Available!"
+  "更新可用！"
+}
+{
+  "Update Google Play services"
+  "更新Google Play services"
+}
+{
+  "Update Now"
+  "立即更新"
+}
+{
+  "Update to v%s"
+  "更新到v%s"
+}
+{
+  "Upload Profile Picture"
+  "上传个人资料图片"
+}
+{
+  "Use password"
+  "使用密码"
+}
+{
+  "Use: %1$s"
+  "使用: %1$s"
+}
+{
+  "User ID"
+  "用户ID"
+}
+{
+  "VR mode"
+  "VR模式"
+}
+{
+  "Valid Period"
+  "有效期"
+}
+{
+  "Verification"
+  "验证"
+}
+{
+  "Verify your password"
+  "验证您的密码"
+}
+{
+  "Verify your transaction"
+  "验证您的交易"
+}
+{
+  "Version"
+  "版本"
+}
+{
+  "Version %s is now available"
+  "已有更新的版本%s"
+}
+{
+  "Version v %s"
+  "版本v %s"
+}
+{
+  "Video"
+  "视频"
+}
+{
+  "Video Call"
+  "视频通话"
+}
+{
+  "Video Quality"
+  "视频质量"
+}
+{
+  "Video Selection Cannot%1$sNumber"
+  "无法选择%1$s个视频"
+}
+{
+  "Video call"
+  "视频通话"
+}
+{
+  "Video call is ongoing."
+  "视频通话正在进行"
+}
+{
+  "View more comments..."
+  "查看更多评论"
+}
+{
+  "Violence"
+  "暴力内容"
+}
+{
+  "Voice & Video Call"
+  "语音和视频通话"
+}
+{
+  "Voice Call"
+  "语音通话"
+}
+{
+  "Voice call"
+  "语音通话"
+}
+{
+  "Voice call is ongoing."
+  "语音通话正在进行"
+}
+{
+  "Voice search"
+  "语音搜索"
+}
+{
+  "Wait For Loading…"
+  "等待加载"
+}
+{
+  "Wait For Refreshing…"
+  "等待刷新"
+}
+{
+  "Waiting"
+  "等候"
+}
+{
+  "Wallet"
+  "钱包"
+}
+{
+  "Wallet Settings"
+  "钱包设置"
+}
+{
+  "Wallet disconnected"
+  "钱包已断开连接"
+}
+{
+  "Wallpaper"
+  "壁纸"
+}
+{
+  "We call on the WireMin community to take the responsibility for their expression in public at WireMin, any content that is criminal in the offline world, should not be justified to remain on the internet.\n\nSome examples of illegal and harmful activities include:\n\n1. Child sexual exploitation: Our community has zero tolerance for child sexual exploitation at WireMin.\n\n2. Terrorism/violent extremism: You should not promote terrorism or violent extremism.\n\n3. Abuse/harassment: This refers to targeted harassment of someone. You may not incite others to experience physical harm.\n\n4. Hateful conduct: This includes violence against, threatening, or harassing other people based on their race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease.\n\n5. Suicide or self-harm: You should not encourage or promote suicide or self-harm.\n\n6. Non-consensual nudity: You should not post or share nude photos or videos of someone that were produced or distributed without their consent.\n\n7. Private information of the others: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission.\n\nWireMin community is never with abuses of free speech, together we build, and grow."
+  "我们呼吁Wiremin社区为他们在Wiremin的公开言论负责，任何在线下世界属于犯罪的内容，不应该继续留在互联网上。非法和有害活动的一些例子包括:\n1.儿童性剥削：我们的社区对Wiremin的儿童性剥削持零容忍态度。\n2.恐怖主义/暴力极端主义：你不应该宣扬恐怖主义或暴力极端主义。\n3.虐待/骚扰：这是指有针对性的骚扰某人。你不得煽动他人遭受身体伤害。\n4.仇恨行为：这包括基于种族、民族、国籍、种姓、性取向而对他人实施暴力、威胁或骚扰。性别、性别认同、宗教信仰、年龄、残疾或严重疾病。\n5.自杀或自残：你不应该鼓励或推动自杀或自残。\n6.未经同意的裸体：你不应该发布或分享未经他们同意而制作或传播的裸体照片或视频。\n7.他人的私人信息：未经他人明确授权和许可，您不得发布或张贴他人的私人信息（如家庭电话号码和地址）。\nWiremin社区从不滥用言论自由，我们一起建设，一起成长。"
+}
+{
+  "We're better than ever!"
+  "我们比以前更好了！"
+}
+{
+  "Wednesday"
+  "周三"
+}
+{
+  "Welcome\nBack"
+  "欢迎返回"
+}
+{
+  "Welcome to Join WireMin Community!"
+  "欢迎加入WireMin社区！"
+}
+{
+  "What do you want to report?"
+  "你想报告什么？"
+}
+{
+  "What's Happening?"
+  "发生了什么事？"
+}
+{
+  "While using beta calls, your IP may reveal to relayers and the call partner. A new protocol is being developed without revealing IPs to other parties. Please stay tuned."
+  "使用测试版通话时，您的IP可能会泄露给中继者和通话伙伴。目前正在制定一项新的协议，但不会向其他方透露IP。请继续关注。"
+}
+{
+  "While using the app"
+  "在使用应用程序时"
+}
+{
+  "WireMin Benchmark"
+  "Wiremin性能测试"
+}
+{
+  "WireMin Official Chat Space"
+  "Wiremin官方聊天空间"
+}
+{
+  "WireMin is Experimental, Contact %s for any questions."
+  "WireMin尚处于实验阶段，如有任何问题，请联系%s"
+}
+{
+  "WireMin needs access to your microphone so that you can make calls."
+  "Wiremin需要访问您的麦克风，以便您可以拨打电话"
+}
+{
+  "WireMin notifications are disabled. To enable, please go to your device's settings > Apps > WireMin and Allow Notifications."
+  "WireMin通知已禁用。要启用，请转到设备的“设置”>“应用程序”>“WireMin”并允许通知"
+}
+{
+  "WireMin will periodically scan for new messages in the background without sending notification."
+  "Wiremin将定期在后台扫描新消息，而不发送通知"
+}
+{
+  "WireMin's offline translation feature is supported by Google's ML Kits, which may collect data while in use. However, WireMin ensures that the content of your messages and the identities of your conversation partners are not accessible to Google servers. If data privacy is a concern, we strongly recommend avoiding the use of the translation features.\n\nThe collected data may include: \n\nDevice information: manufacturer, model, OS version and build...\n\nApplication information: Package name and app versions.\n\nDevice or other identifiers: Unique identifiers associated with your device.\n\nPerformance metrics: such as latency.\n\nEvent type: such as feature initializations, model downloads, detection, resource releases.\n\nError codes: such as feature initializations, model downloads, detection, resource releases.\n\nTo know more about the details, please refer to Android Data Disclosure of ML Kit."
+  "Wiremin的离线翻译功能由Google的ML工具包支持，该工具包可能会在使用时收集数据。但是，Wiremin确保您的消息内容和对话伙伴的身份不会被Google服务器访问。\n如果数据隐私是一个问题，我们强烈建议避免使用翻译功能。\n所收集的数据可以包括:\n设备信息：制造商、型号、操作系统版本和内部版本..\n应用程序信息：包名称和应用程序版本。\n设备或其他标识符：与您的设备关联的唯一标识符。\n性能指标:例如延迟。\n事件类型：如功能初始化、模型下载、检测、资源释放。\n错误代码：如功能初始化，模型下载，检测，资源释放。要了解更多详细信息，请参阅ML Kit的Android数据披露。"
+}
+{
+  "WireMin's offline translation, powered by Google's ML Kits, enables users download and manage language packs locally on their devices. Wi-Fi is recommended for download."
+  "WireMin的离线翻译由Google的ML工具包提供支持，您可以在设备上下载和管理语言包。\n由于中国的特殊网络，建议使用加速器后下载。"
+}
+{
+  "Withdraw"
+  "支付"
+}
+{
+  "Withdraw Details"
+  "撤回详细信息"
+}
+{
+  "Would you allow greeting request from anonymous through your WireMin ID?"
+  "您是否允许匿名者通过您的WireMin ID发出好友请求？"
+}
+{
+  "Would you like to enable Spaces?"
+  "是否要启用空间？"
+}
+{
+  "Write a Message"
+  "输入内容以发送"
+}
+{
+  "Write it down and keep it in a secret place"
+  "把它写下来，放在一个私密的地方"
+}
+{
+  "YOUR\nSOCIAL\nNETWORK\nYOUR WAY"
+  "你的社交网络\n你的选择"
+}
+{
+  "Yes"
+  "确认"
+}
+{
+  "Yesterday"
+  "昨天"
+}
+{
+  "You"
+  "你"
+}
+{
+  "You are connected with insufficient number of peers on the WireMin Network."
+  "此模式下每台设备都是一个节点\n你将连接这些节点用以支撑通信"
+}
+{
+  "You are not connected to any peers on WireMin Network."
+  "此模式下每台设备都是一个节点\n你将连接这些节点用以支撑通信"
+}
+{
+  "You are the creator of this secret group. The group will be deleted for everyone and all local chat history will be deleted. This cannot be undone."
+  "你是这个私密群聊的创建者。将删除所有人的组，并删除所有本地聊天记录。此操作无法撤消。"
+}
+{
+  "You are the creator of this space. The space will be deleted for everyone and all local chat history will be deleted. This cannot be undone."
+  "你是这个空间的创造者，确认后所有人的本空间记录都将被删除，所有本地聊天记录也将被删除，此操作无法撤消。"
+}
+{
+  "You can add contact by WireMin ID, invite link or QR code"
+  "您可以通过Wiremin ID、邀请链接或二维码添加联系人"
+}
+{
+  "You can change it in Personal > Settings > Social Preference at any time."
+  "您可以随时在“个人”>“设置”>“社交偏好”中进行更改"
+}
+{
+  "You can choose the size limit of attachment such as the attached photos, files, videos and etc."
+  "您可以选择附件的大小限制，如附加的照片，文件，视频等"
+}
+{
+  "You can explore a space by invite link or QR code"
+  "您可以通过邀请链接或二维码浏览共享空间"
+}
+{
+  "You can only deposit BTC to this address via the Bitcoin network. (Don't send ERC-20 tokens or NFTs.)"
+  "您只能通过比特币网络将BTC存入此地址。（不要发送ERC-20令牌或NFT）"
+}
+{
+  "You can only deposit ETH to this address via the Ethereum network (ERC20)."
+  "您只能通过以太坊网络（ERC20）向该地址存入ETH"
+}
+{
+  "You can only deposit USDC to this address via the Ethereum network (ERC20)."
+  "您只能通过以太坊网络（ERC20）将USDC存入该地址"
+}
+{
+  "You can only deposit USDT to this address via the Ethereum network (ERC20)."
+  "您只能通过以太坊网络（ERC20）将USDT存入该地址"
+}
+{
+  "You can only select videos within %1$ds"
+  "您只能选择%1$ds内的视频"
+}
+{
+  "You can select up to %s photos or videos"
+  "您最多可以选择%s张照片或视频"
+}
+{
+  "You can select up to %s spaces."
+  "您最多可以选择%s个空格"
+}
+{
+  "You can use system recordings to record audio"
+  "您可以使用系统录音来录制音频"
+}
+{
+  "You cannot select a video less than %1$ds"
+  "您不能选择小于%1$ds的视频"
+}
+{
+  "You cannot transfer to your own BeeID."
+  "你不能转移到你自己的BeeID"
+}
+{
+  "You changed the group name to %s"
+  "您已将群名更改为%s"
+}
+{
+  "You changed the group region to %s"
+  "您已将群聊区域更改为%s"
+}
+{
+  "You created the space"
+  "你创造了空间"
+}
+{
+  "You don't have any tokens.\nGo to deposit"
+  "你没有任何代币，去存款"
+}
+{
+  "You have %s new messages!"
+  "您有%s个新消息"
+}
+{
+  "You have %s new space notifications!"
+  "您有%s个新的空间通知"
+}
+{
+  "You have a new message!"
+  "你有一个新消息!"
+}
+{
+  "You have a new space notification!"
+  "你有一个新的空间通知!"
+}
+{
+  "You have a video call!"
+  "你收到一个视频通话!"
+}
+{
+  "You have a voice call!"
+  "你有一个语音电话!"
+}
+{
+  "You have an incoming call!"
+  "你收到一个来电!"
+}
+{
+  "You have been blocked."
+  "你已经被拉黑"
+}
+{
+  "You have connected to the wallet \"%s\". Are you sure to disconnect?"
+  "您已连接到钱包“%s”。您确定要断开连接吗？"
+}
+{
+  "You have connected to the wallet \"%s\". Do you want to proceed with the payment?"
+  "您已连接到钱包“%s”。你想继续付款吗？"
+}
+{
+  "You have no transactions."
+  "你没有交易记录"
+}
+{
+  "You have recently logged into this account, which will keep you signed in for 2 days."
+  "您最近登录了此帐户，这将使您保持登录状态2天"
+}
+{
+  "You have to select a contact to add to the secret group"
+  "您必须选择要添加到私密群聊的联系人"
+}
+{
+  "You haven't create any space yet.\nCreate now?"
+  "你还没有创建任何空间。现在创建？"
+}
+{
+  "You haven't downloaded the \"%s\" language pack yet. Please tap 'Manage Language' below to download it manually."
+  "您尚未下载“%s”语言包。请点击下面的“管理语言”以手动下载。"
+}
+{
+  "You haven't explored any spaces yet."
+  "你还没有探索过任何空间。"
+}
+{
+  "You haven't joined any secret groups yet."
+  "你还没有加入任何私密组织。"
+}
+{
+  "You haven't set an ETH address. Please set it up so that I can send you tokens."
+  "你还没有设置一个ETH地址。请设置它"
+}
+{
+  "You invited %s to the group chat"
+  "你邀请%s群聊聊天"
+}
+{
+  "You left the group"
+  "你离开了群聊"
+}
+{
+  "You removed %s from the group chat"
+  "你从群聊聊天中删除了%s"
+}
+{
+  "You will be logged out of your current account. Continue?"
+  "您的当前帐户将被注销。是否继续？"
+}
+{
+  "You'll get instant reliable notifications for new messages through Firebase Cloud Messaging (FCM) service."
+  "通过Firebase Cloud Messaging（FCM）服务，您将获得新消息的即时可靠通知。"
+}
+{
+  "You'll need to enter the Pay PIN to authorize transactions on WireMin."
+  "您需要输入支付PIN才能在Wiremin上授权交易"
+}
+{
+  "You'll see the sender's info and message content in the notification"
+  "您将在通知中看到发件人的信息和消息内容"
+}
+{
+  "You've added this contact"
+  "你已添加了该好友"
+}
+{
+  "You've already installed?"
+  "你已经安装了吗?"
+}
+{
+  "You've made a transaction."
+  "你做了一笔交易"
+}
+{
+  "You've received a transaction."
+  "你已经收到一笔交易"
+}
+{
+  "Your BTC will be withdrawn from your wallet and sent to the provided address."
+  "您的BTC将从您的钱包中提取并发送到提供的地址。"
+}
+{
+  "Your Crypto Wallet for Daily Use!"
+  "你日常使用的加密钱包"
+}
+{
+  "Your ETH will be withdrawn from your wallet and sent to the provided address."
+  "您的ETH将从您的钱包中提取并发送到提供的地址"
+}
+{
+  "Your Space\nYour Way"
+  "你的空间\n你的选择"
+}
+{
+  "Your Space, Your Way"
+  "你的空间,你的选择"
+}
+{
+  "Your USDC will be withdrawn from your wallet and sent to the provided address."
+  "您的USDC将从您的钱包中提取并发送到提供的地址"
+}
+{
+  "Your USDT will be withdrawn from your wallet and sent to the provided address."
+  "您的USDT将从您的钱包中提取并发送到提供的地址"
+}
+{
+  "Your account will be logout from current device soon. Do you want to stop the remote logout?"
+  "您的帐户将很快从当前设备注销。是否要停止远程注销？"
+}
+{
+  "Your message is too long.\nPlease shorten it before sending."
+  "你的信息太长了。发送前请将其缩短"
+}
+{
+  "Your password must be at least 6 characters."
+  "你的密码必须至少6个字符。"
+}
+{
+  "Your post will disappear after certain time."
+  "你的文章一定时间后就会消失"
+}
+{
+  "Your secret recovery phrase is the key to your account. It can be used to restore your account if you forget password or lose access to device. Please save it in a secret place and never share it with anyone."
+  "您的助记词是您的帐户的关键。如果您忘记密码或无法访问设备，它可用于恢复您的帐户。请把它保存在一个私密的地方，永远不要与任何人分享"
+}
+{
+  "Your space can only be followed by an invite. Both you and your followers can share the invite link with others."
+  "您的共享空间后面只能有邀请。您和您的关注者都可以与他人共享邀请链接"
+}
+{
+  "Your space can only be joined by invitation."
+  "您的共享空间只能通过邀请加入"
+}
+{
+  "Your space is where you gain full freedom of speech and share same interests with your friends. Your Space, your way."
+  "你的空间是你获得充分的言论自由并与你的朋友分享共同兴趣的地方。你的空间，你的选择"
+}
+{
+  "Your transaction is on the way.\nYou can check for more details later in transaction activity."
+  "您的交易正在进行中。您可以稍后在交易活动中查看更多详细信息"
+}
+{
+  "Yours"
+  "个人"
+}
+{
+  "commented on your post:%s"
+  "评论了你的帖子：%s"
+}
+{
+  "delete"
+  "删除"
+}
+{
+  "enter"
+  "输入"
+}
+{
+  "free and instant"
+  "免费使用的即时消息平台"
+}
+{
+  "free in-app transfers"
+  "应用内免费"
+}
+{
+  "liked your comment."
+  "赞了你的评论"
+}
+{
+  "liked your post."
+  "赞了你的帖子"
+}
+{
+  "not pictures or video"
+  "不是图片或视频"
+}
+{
+  "now"
+  "现在"
+}
+{
+  "posted in %s"
+  "发表于%s"
+}
+{
+  "processing %s%%"
+  "已处理：%s%%"
+}
+{
+  "processing %s%%, %s pending"
+  "已处理：%s%%，%s等待中"
+}
+{
+  "replied to your comment:%s"
+  "回复了你的评论:%s"
+}
+{
+  "space"
+  "空间"
+}
+{
+  "to %s"
+  "给 %s"
+}
+{
+  "updated post."
+  "已更新帖子"
+}
+{
+  "you can use your camera to take photos or videos"
+  "您可以使用相机拍摄照片或视频"
+}
+{
+  "⚠️ Please confirm that this transaction has been completed on Ethereum Network."
+  "请确认此交易已在以太坊网络上完成。"
+}
+{
+  "⚠️ Please confirm that this transaction has been completed on the Lightning Network."
+  "请确认此交易已在闪电网络上完成。"
+}
+{
+  "💡️Here are a few tips to help you better dive into the decentralized world:\n\n1. It's recommended to connect to Wi-Fi while using WireMin.\n\n2. Explore public spaces in Discovery to connect with the world.\n\n3. Join the WireMin Official Chat Space to get the latest updates and share your feedback. \n\nNeed more info? Check out our FAQ page: https://wiremin.org/#/FAQ"
+  "💡️这里有一些提示可以帮助你更好地使用去中心化的WireMin:\n1.建议在使用Wiremin时连接到Wi-Fi。\n2.在\"发现\"中探索公共空间，与世界连接。\n3.加入Wiremin官方聊天空间，获取最新更新并分享您的反馈\n需要更多信息？查看我们的问答页面：\nhttps://wiremin.org/#/FAQ。"
+}
+{
+  "🤝️Welcome aboard!🔐\nThis is a place where Privacy, Security, and Freedom matter."
+  "🤝️欢迎加入！🔐\n这是一个注重隐私、安全和自由的地方。"
+}
