@@ -152,11 +152,11 @@
 }
 {
   "%s not enable"
-  "%s未启用"
+  "未启用%s"
 }
 {
   "%s not set up"
-  "%s未设置"
+  "未设置%s"
 }
 {
   "%s notifications"
@@ -348,11 +348,11 @@
 }
 {
   "All spaces in the Discovery are public spaces."
-  "“发现”中的所有空间都是公开空间"
+  "“探索”中的所有空间都是公开空间"
 }
 {
   "All spaces you've viewed would display on \"Yours\""
-  "您查看过的所有空间都将显示在“个人”上"
+  "您查看过的空间都显示在“个人”上"
 }
 {
   "Allow"
@@ -404,7 +404,7 @@
 }
 {
   "Anyone can find your feed space in Discovery and follow."
-  "任何人都可以在发现和订阅中找到您维护的空间"
+  "任何人都可以在探索和订阅中找到您维护的空间"
 }
 {
   "Anyone can find your space in \"Discovery\" and join."
@@ -516,7 +516,7 @@
 }
 {
   "Attachments Loaded"
-  "已加载的附件"
+  "附件加载"
 }
 {
   "Attachments Total"
@@ -596,7 +596,7 @@
 }
 {
   "Blob Received"
-  "已收到Blob"
+  "已接收Blob"
 }
 {
   "Blob Requested"
@@ -604,7 +604,7 @@
 }
 {
   "Blob Transferring"
-  "正在传输的Blob"
+  "传输中的Blob"
 }
 {
   "Block"
@@ -620,7 +620,7 @@
 }
 {
   "Blocked individuals won’t be able to send messages, but they can still see the content in the space."
-  "被拉黑的个人将无法发送邮件，但他们仍可以查看共享空间中的内容。"
+  "被拉黑的个人将无法发送消息，但他们仍可以查看共享空间中的内容。"
 }
 {
   "Blue Wallet"
@@ -752,7 +752,7 @@
 }
 {
   "Choose who can edit the space name, photo, description and etc. It cannot be changed after setup."
-  "选择谁可以编辑空间名称，照片，描述等。设置后无法更改。"
+  "选择谁可以编辑空间名称，照片，描述等，设置后无法更改。"
 }
 {
   "Clean"
@@ -1052,15 +1052,15 @@
 }
 {
   "Database Cached Read"
-  "数据库缓存读取"
+  "缓存读取"
 }
 {
   "Database Read"
-  "数据库读取"
+  "数据读取"
 }
 {
   "Database Write"
-  "数据库写入"
+  "数据写入"
 }
 {
   "Date"
@@ -1244,7 +1244,7 @@
 }
 {
   "Discovery"
-  "发现"
+  "探索"
 }
 {
   "Display Name"
@@ -1372,7 +1372,7 @@
 }
 {
   "Edit Profile"
-  "编辑配置文件"
+  "编辑资料"
 }
 {
   "Edit Space Info"
@@ -1668,11 +1668,11 @@
 }
 {
   "Follow"
-  "订阅"
+  "关注"
 }
 {
   "Following"
-  "已订阅"
+  "已关注"
 }
 {
   "For optimal performance and user experience, it is recommended to use WireMin with Wi-Fi due to the decentralized peer-to-peer network and the possibility of high data volume."
@@ -1940,19 +1940,19 @@
 }
 {
   "Incorrect Password"
-  "不正确的密码"
+  "密码错误"
 }
 {
   "Incorrect Password.You have %s more chances left."
-  "密码不正确，您还有%s次机会"
+  "密码错误，您还有%s次机会"
 }
 {
   "Incorrect Password.You have 1 more chance left."
-  "密码不正确，您还有1次机会"
+  "密码错误，您还有1次机会"
 }
 {
   "Incorrect Pay PIN.\nPlease try again."
-  "不正确的支付密码，请再试一次"
+  "密码错误，请再试一次"
 }
 {
   "Infinite Chat Group"
@@ -1976,7 +1976,7 @@
 }
 {
   "Internet Connectivity"
-  "互联网连接"
+  "通信连接方式"
 }
 {
   "Internet is required for data synchronization unless it is an empty account without any contacts."
@@ -2092,23 +2092,23 @@
 }
 {
   "Keepalive Hashrate"
-  "存活 Hashrate"
+  "保活探测"
 }
 {
   "Key Encryption"
-  "已加密Key"
+  "Key加密"
 }
 {
   "Keys Keepalive"
-  "存活 Keys"
+  "保活Keys"
 }
 {
   "Keys Loaded"
-  "已加载Keys"
+  "留存的Keys"
 }
 {
   "Keys Obsoleted"
-  "已弃用Keys"
+  "废弃的Keys"
 }
 {
   "Keys Total"
@@ -2240,11 +2240,11 @@
 }
 {
   "Logout Requested"
-  "已请求注销"
+  "已请求退出登录"
 }
 {
   "Logout failed, please try again later"
-  "注销失败，请稍后再试"
+  "退出登录失败，请稍后再试"
 }
 {
   "Lower Cost to Free"
@@ -2652,11 +2652,11 @@
 }
 {
   "On WireMin Spaces, you can…"
-  "在Wiremin Spaces上，您可以…"
+  "在Wiremin 空间里，您可以…"
 }
 {
   "On WireMin Spaces, you can…\nExpress your ideas freely and share moments with like-minded individuals.\nDiscover interesting topics and join discussions at any time.\nConnect with the world and make new friends without restraints."
-  "在Wiremin Spaces上，您可以…\n自由表达您的想法，与志趣相投的人分享精彩瞬间，随时发现有趣的话题并加入讨论，与世界联系，不受约束地结交新朋友"
+  "在Wiremin空间里，您可以…\n自由表达您的想法，与志趣相投的人分享精彩瞬间，随时发现有趣的话题并加入讨论，与世界联系，不受约束地结交新朋友"
 }
 {
   "Once enabled, NSFW Spaces will not be displayed in your Discovery."
@@ -2872,7 +2872,7 @@
 }
 {
   "Peering status: Fallback"
-  "节点状态：回退(Fallback)"
+  "节点状态：断开连接"
 }
 {
   "Peering status: Unreachable"
@@ -2892,7 +2892,7 @@
 }
 {
   "People can find your space in discovery and join."
-  "其他人可以在发现中找到您的共享空间并加入。"
+  "其他人可以在探索中找到您的共享空间并加入。"
 }
 {
   "People can only join your group by invite link."
@@ -2988,7 +2988,7 @@
 }
 {
   "Please create a secret group chat with 2 or more friends"
-  "请与两个或更多朋右创建私密群聊"
+  "请与两个或更多朋友创建私密群聊"
 }
 {
   "Please enable the floating window so that it can display over apps while running in the background."
@@ -3012,7 +3012,7 @@
 }
 {
   "Please enter password to stop the Remote Logout."
-  "请输入密码以停止远程注销"
+  "请输入密码以停止远程退出登录"
 }
 {
   "Please enter your WireMin sign-in password to authorize the reset of the Pay PIN."
@@ -3264,7 +3264,7 @@
 }
 {
   "Remote Logout"
-  "远程注销"
+  "远程退出登录"
 }
 {
   "Remove"
@@ -3512,7 +3512,7 @@
 }
 {
   "Secure Hash"
-  "加密Hash"
+  "哈希校验"
 }
 {
   "Secure · Private · Ownership"
@@ -3712,11 +3712,11 @@
 }
 {
   "Share Your Profile"
-  "分享你的资料"
+  "分享你的个人资料"
 }
 {
   "Share Your Voice"
-  "分享你的声音"
+  "分享你的见解"
 }
 {
   "Share this link with friends to let them quickly join this group."
@@ -3740,11 +3740,11 @@
 }
 {
   "Shout"
-  "公屏消息"
+  "喊话"
 }
 {
   "Shout: Send a message to everyone"
-  "公屏消息:将消息发送给每个人"
+  "喊话:将消息发送给每个人"
 }
 {
   "Show additional settings"
@@ -3908,7 +3908,7 @@
 }
 {
   "Stop Remote Logout"
-  "停止远程注销"
+  "停止远程退出登录"
 }
 {
   "Stopped"
@@ -4224,11 +4224,11 @@
 }
 {
   "This business card is expired. Please get a new one."
-  "名片无效了，请重新获取"
+  "名片失效了，请重新获取"
 }
 {
   "This can be changed in Personal>Settings>Social Preference at any time."
-  "这可以随时在“个人”>“设置”>“社交首选项”中进行更改。"
+  "你可随时在“个人”>“设置”>“社交首选项”更改"
 }
 {
   "This comment has been deleted."
@@ -4240,7 +4240,7 @@
 }
 {
   "This device does not support PIN, pattern, or password."
-  "这个设备不支持销、模式或通过"
+  "这个设备不支持PIN、图案或密码解锁"
 }
 {
   "This episode cannot be played.\nPlease reload and try again."
@@ -4276,7 +4276,7 @@
 }
 {
   "This old version is no longer compatible. For a better experience, please update to the latest version."
-  "这个旧版本不再兼容。为了获得更好的体验，请更新到最新版本"
+  "这个旧版本不再兼容。为了获得更好的体验，请在https://github.com/covercanvas/WireMin-Chinese/更新到最新版本"
 }
 {
   "This post has been deleted or disappeared."
@@ -4404,7 +4404,7 @@
 }
 {
   "Transferring: %s"
-  "转账中: %s"
+  "传输中: %s"
 }
 {
   "Translate"
@@ -4800,7 +4800,7 @@
 }
 {
   "You are the creator of this secret group. The group will be deleted for everyone and all local chat history will be deleted. This cannot be undone."
-  "你是这个私密群聊的创建者。将删除所有人的组，并删除所有本地聊天记录。此操作无法撤消。"
+  "你是这个私密群聊的创建者，这将删除所有人的相关记录，并删除所有本地聊天记录，此操作无法撤消。"
 }
 {
   "You are the creator of this space. The space will be deleted for everyone and all local chat history will be deleted. This cannot be undone."
@@ -4812,7 +4812,7 @@
 }
 {
   "You can change it in Personal > Settings > Social Preference at any time."
-  "您可以随时在“个人”>“设置”>“社交偏好”中进行更改"
+  "您随时可在“个人”>“设置”>“社交偏好”更改"
 }
 {
   "You can choose the size limit of attachment such as the attached photos, files, videos and etc."
@@ -4848,7 +4848,7 @@
 }
 {
   "You can select up to %s spaces."
-  "您最多可以选择%s个空格"
+  "您最多可以选择%s个空间"
 }
 {
   "You can use system recordings to record audio"
@@ -4872,7 +4872,7 @@
 }
 {
   "You created the space"
-  "你创造了空间"
+  "你新建了空间"
 }
 {
   "You don't have any tokens.\nGo to deposit"
@@ -4944,7 +4944,7 @@
 }
 {
   "You haven't joined any secret groups yet."
-  "你还没有加入任何私密组织。"
+  "你还没有加入任何私密群聊"
 }
 {
   "You haven't set an ETH address. Please set it up so that I can send you tokens."
@@ -4964,7 +4964,7 @@
 }
 {
   "You will be logged out of your current account. Continue?"
-  "您的当前帐户将被注销。是否继续？"
+  "您的当前帐户将被退出登录。是否继续？"
 }
 {
   "You'll get instant reliable notifications for new messages through Firebase Cloud Messaging (FCM) service."
@@ -5024,7 +5024,7 @@
 }
 {
   "Your account will be logout from current device soon. Do you want to stop the remote logout?"
-  "您的帐户将很快从当前设备注销。是否要停止远程注销？"
+  "您的帐户将很快从当前设备退出登录。是否要停止远程退出登录？"
 }
 {
   "Your message is too long.\nPlease shorten it before sending."
@@ -5036,7 +5036,7 @@
 }
 {
   "Your post will disappear after certain time."
-  "你的文章一定时间后就会消失"
+  "你的文章一段时间后就会消失"
 }
 {
   "Your secret recovery phrase is the key to your account. It can be used to restore your account if you forget password or lose access to device. Please save it in a secret place and never share it with anyone."
@@ -5044,7 +5044,7 @@
 }
 {
   "Your space can only be followed by an invite. Both you and your followers can share the invite link with others."
-  "您的共享空间后面只能有邀请。您和您的关注者都可以与他人共享邀请链接"
+  "您的共享空间只能通过邀请链接关注，您和您的关注者都可以与他人共享邀请链接"
 }
 {
   "Your space can only be joined by invitation."
@@ -5108,7 +5108,7 @@
 }
 {
   "processing %s%%, %s pending"
-  "已处理：%s%%，%s等待中"
+  "已处理：%s%%，%s未处理"
 }
 {
   "replied to your comment:%s"
@@ -5140,9 +5140,21 @@
 }
 {
   "💡️Here are a few tips to help you better dive into the decentralized world:\n\n1. It's recommended to connect to Wi-Fi while using WireMin.\n\n2. Explore public spaces in Discovery to connect with the world.\n\n3. Join the WireMin Official Chat Space to get the latest updates and share your feedback. \n\nNeed more info? Check out our FAQ page: https://wiremin.org/#/FAQ"
-  "💡️这里有一些提示可以帮助你更好地使用去中心化的WireMin:\n1.建议在使用Wiremin时连接到Wi-Fi。\n2.在\"发现\"中探索公共空间，与世界连接。\n3.加入Wiremin官方聊天空间，获取最新更新并分享您的反馈\n需要更多信息？查看我们的问答页面：\nhttps://wiremin.org/#/FAQ。"
+  "💡️这里有一些提示可以帮助你更好地使用去中心化的WireMin:\n1.建议在使用Wiremin时连接到Wi-Fi。\n2.在\"发现\"中探索公共空间，与世界连接。\n3.加入Wiremin官方聊天空间，获取最新更新并分享您的反馈\n需要更多信息？查看我们的问答页面：\nhttps://wiremin.org/#/FAQ。\n中文版更新地址：\nhttps://github.com/covercanvas/WireMin-Chinese/"
 }
 {
   "🤝️Welcome aboard!🔐\nThis is a place where Privacy, Security, and Freedom matter."
   "🤝️欢迎加入！🔐\n这是一个注重隐私、安全和自由的地方。"
+}
+{
+  "Twitter"
+  "Twitter(X)"
+}
+{
+  "Windows Desktop"
+  "Windows"
+}
+{
+  "Windows Laptop"
+  "Windows 笔记本"
 }
